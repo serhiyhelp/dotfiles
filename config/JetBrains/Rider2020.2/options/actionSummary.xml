@@ -1,0 +1,72 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="ActivateFavoritesToolWindow">
+        <ActionSummary times="2" last="1608474286398" />
+      </entry>
+      <entry key="ActivateProjectToolWindow">
+        <ActionSummary times="30" last="1608558150350" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="3" last="1607973089559" />
+      </entry>
+      <entry key="Exit">
+        <ActionSummary times="1" last="1608475809342" />
+      </entry>
+      <entry key="FileChooser.ShowHiddens">
+        <ActionSummary times="4" last="1607952322767" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="1" last="1607952352629" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="15" last="1607977602272" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="11" last="1608475664945" />
+      </entry>
+      <entry key="WelcomeScreen.OpenSolution">
+        <ActionSummary times="1" last="1607952311346" />
+      </entry>
+      <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+        <ActionSummary times="2" last="1607977006465" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="1" last="1608475619057" />
+      </entry>
+      <entry key="com.intellij.ide.actions.ToolWindowMoveAction">
+        <ActionSummary times="1" last="1607973161628" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+        <ActionSummary times="4" last="1608475692396" />
+      </entry>
+      <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+        <ActionSummary times="404" last="1608476090694" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$MarkupModelDelegateAction">
+        <ActionSummary times="4" last="1607977631656" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+        <ActionSummary times="5" last="1607977630079" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.InspectionPopupManager$MenuAction">
+        <ActionSummary times="1" last="1607977620405" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="6" last="1608474319200" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+        <ActionSummary times="2" last="1607973149333" />
+      </entry>
+      <entry key="com.jetbrains.rdclient.daemon.highlighters.gutterMarks.FrontendGutterIconRenderer$getClickAction$1">
+        <ActionSummary times="1" last="1607972703125" />
+      </entry>
+      <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
+        <ActionSummary times="1" last="1607972743618" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="1" last="1607977009060" />
+      </entry>
+    </data>
+  </component>
+</application>

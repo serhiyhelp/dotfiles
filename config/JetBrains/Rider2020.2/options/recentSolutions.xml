@@ -1,0 +1,63 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/src/unity/BoBall/Assets">
+          <value>
+            <RecentProjectMetaInfo displayName="Assets" projectWorkspaceId="1leKz0IQ7baMuIfDgbZJW0c5oW8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-202.7660.16" />
+              <option name="buildTimestamp" value="1601454660525" />
+              <option name="metadata" value="Assets|" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1607952376121" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/test/test.sln">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1lf07hhRviPhl4b5QbZTgP9JRfS">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-202.7660.16" />
+              <option name="buildTimestamp" value="1601454685712" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1607972674882" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/unity/BoBall/Assets/Scripts">
+          <value>
+            <RecentProjectMetaInfo displayName="Scripts" projectWorkspaceId="1lf0Vb2YPvLkTbMcZ2BwCAC3Nfl">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-202.7660.16" />
+              <option name="buildTimestamp" value="1601454695654" />
+              <option name="metadata" value="Scripts|" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1607972864238" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/src/unity/BoBall/BoBall.sln">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1lf0rR2eWsp6NmnsYbKurUUqwYz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-202.7660.16" />
+              <option name="buildTimestamp" value="1601454706005" />
+              <frame x="11" y="20" width="946" height="1049" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1608558124547" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/src/unity/BoBall/BoBall.sln" />
+        <option value="$USER_HOME$/src/unity/BoBall/Assets/Scripts" />
+        <option value="$USER_HOME$/src/test/test.sln" />
+        <option value="$USER_HOME$/src/unity/BoBall/Assets" />
+      </list>
+    </option>
+  </component>
+</application>
