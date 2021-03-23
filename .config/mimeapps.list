@@ -1,0 +1,15 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-NNN2U0.desktop
+text/csharp=rider.desktop
+application/sln=rider.desktop
+x-scheme-handler/lbry=lbry.desktop
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop
+application/x-fictionbook+xml=org.pwmt.zathura-pdf-mupdf.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-NNN2U0.desktop;
+image/png=sxiv.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+image/jpeg=sxiv.desktop;
+application/x-sh=nvim.desktop;
+application/octetstream=nvim.desktop;

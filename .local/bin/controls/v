@@ -1,0 +1,10 @@
+#!/bin/sh
+
+case ${1:0:1} in
+    "+") ponymix inc ${1:1};;
+    "-") ponymix dec ${1:1};;
+    "t") ponymix toggle ;;
+    *) ponymix set-volume $1;;
+esac
+
+pkill -RTMIN+1 dwmblocks

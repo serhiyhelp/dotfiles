@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-smudge-tool")
+(paint-info "gimp-smudge")
+(foreground (color-rgb 0.058823533356189728 0.41960787773132324 0.4745098352432251))
+(brush "1. Pixel")
+(dynamics "Pressure Opacity")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(font "Arial")
+(tool-preset "16×10")
+
+# end of user context

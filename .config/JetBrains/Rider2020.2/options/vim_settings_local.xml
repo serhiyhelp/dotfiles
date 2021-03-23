@@ -1,0 +1,185 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>&quot;</entry>
+        <entry>&quot;&quot;</entry>
+        <entry>image</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/&quot;/&quot;&quot;/g</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLyIvIiIvZw==</entry>
+        <entry>set visualbell</entry>
+        <entry>s</entry>
+        <entry encoding="base64">JzwsJz5zLyIiL1wiL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyIiL1xcIi9n</entry>
+        <entry encoding="base64">JzwsJz5zL2ltYWdlL2ltYWdlc1tpXS9n</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/src/See-Tags/See-Tags/Program.cs" timestamp="1608989526823">
+        <mark key="]" line="30" column="65" />
+        <mark key="." line="30" column="64" />
+        <mark key="^" line="30" column="65" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1608753339097">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/ReactorGet/ReactorGet/ReactorClient.cs" timestamp="1608987505142">
+        <mark key="'" line="68" column="17" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="99" column="5" />
+        <mark key="^" line="75" column="75" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/ReactorGet/ReactorGet/Post.cs" timestamp="1608757805142">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="33" />
+        <mark key="^" line="26" column="33" />
+        <mark key="." line="26" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/See-Tags/See-Tags/Tag.cs" timestamp="1608987922368">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/ReactorGet/ReactorGet/Page.cs" timestamp="1608756153988">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/ReactorGet/ReactorGet/WebImage.cs" timestamp="1608748350195">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/unity/BoBall/Assets/Scripts/Beat.cs" timestamp="1608476090696">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="25" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/ReactorGet/ReactorGet/Program.cs" timestamp="1608987679940">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="43" column="21" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="53" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/See-Tags/See-Tags/ReactorClient.cs" timestamp="1608989347443">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="62" column="17" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="/" timestamp="1607976305967">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="16" column="52" filename="$USER_HOME$/src/ReactorGet/ReactorGet/Program.cs" />
+      <jump line="42" column="48" filename="$USER_HOME$/src/ReactorGet/ReactorGet/Program.cs" />
+      <jump line="21" column="68" filename="$USER_HOME$/src/ReactorGet/ReactorGet/Program.cs" />
+      <jump line="22" column="27" filename="$USER_HOME$/src/ReactorGet/ReactorGet/Program.cs" />
+      <jump line="10" column="11" filename="$USER_HOME$/src/ReactorGet/ReactorGet/Page.cs" />
+      <jump line="10" column="8" filename="$USER_HOME$/src/ReactorGet/ReactorGet/Post.cs" />
+      <jump line="33" column="0" filename="$USER_HOME$/src/ReactorGet/ReactorGet/Post.cs" />
+      <jump line="45" column="51" filename="$USER_HOME$/src/ReactorGet/ReactorGet/Program.cs" />
+      <jump line="69" column="17" filename="$USER_HOME$/src/ReactorGet/ReactorGet/ReactorClient.cs" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="f" type="2">
+        <text encoding="base64">ICAgICAgICBQYXJhbUFycmF5QXR0cmlidQo=</text>
+      </register>
+      <register name="h" type="2">
+        <text encoding="base64">ICAgICAgICBQYXJhbUFycmF5QXR0cmlidQo=</text>
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBSZWFjdG9yQ2xpZW50IDogSHR0cENsaWVudAogICAgewogICAgICAgIHB1YmxpYyBSZWFjdG9yQ2xpZW50KEh0dHBNZXNzYWdlSGFuZGxlciBoYW5kbGVyKSA6IGJhc2UoaGFuZGxlcikKICAgICAgICB7IH0KICAgICAgICAKICAgICAgICBwdWJsaWMgdm9pZCBMb2dpbihzdHJpbmcgdXNlcm5hbWUsIHN0cmluZyBwYXNzd29yZCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciB0b2tlblBhdHRlcm4gPSBuZXcgUmVnZXgoInZhbHVlPVwiKC4qKVwiIGlkPVwic2lnbmluX19jc3JmX3Rva2VuXCIiLCBSZWdleE9wdGlvbnMuQ29tcGlsZWQpOwogICAgICAgICAgICAKICAgICAgICAgICAgQmFzZUFkZHJlc3MgPSBuZXcgVXJpKCJodHRwOi8vam95cmVhY3Rvci5jYy8iKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBwYWdlID0gR2V0QXN5bmMoImxvZ2luIikuUmVzdWx0LkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKS5SZXN1bHQ7CiAgICAgICAgICAgIHZhciB0b2tlbiA9IHRva2VuUGF0dGVybi5NYXRjaChwYWdlKS5Hcm91cHNbMV0uVmFsdWU7CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgY29udGVudCA9IG5ldyBGb3JtVXJsRW5jb2RlZENvbnRlbnQobmV3W10KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IEtleVZhbHVlUGFpcjxzdHJpbmcsIHN0cmluZz4oInNpZ25pblt1c2VybmFtZV0iLCB1c2VybmFtZSksCiAgICAgICAgICAgICAgICBuZXcgS2V5VmFsdWVQYWlyPHN0cmluZywgc3RyaW5nPigic2lnbmluW3Bhc3N3b3JkXSIsIHBhc3N3b3JkKSwKICAgICAgICAgICAgICAgIG5ldyBLZXlWYWx1ZVBhaXI8c3RyaW5nLCBzdHJpbmc+KCJzaWduaW5bX2NzcmZfdG9rZW5dIiwgdG9rZW4pLAogICAgICAgICAgICB9KTsKICAgICAgICAgICAgUG9zdEFzeW5jKCJsb2dpbiIsIGNvbnRlbnQpLldhaXQoKTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcHVibGljIElFbnVtZXJhYmxlPFBhZ2U+IExvYWRQYWdlcyhzdHJpbmcgdGFnLCBpbnQgY291bnQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcGFnZXMgPSBuZXcgUGFnZVtjb3VudF07CiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgY291bnQ7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gR2V0QXN5bmMoJCIvdGFnL3t0YWd9L2FsbC97aSArIDF9IikuUmVzdWx0OwogICAgICAgICAgICAgICAgdmFyIGNvbnRlbnQgPSByZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkuUmVzdWx0OwogICAgICAgICAgICAgICAgcGFnZXNbaV0gPSBuZXcgUGFnZShjb250ZW50KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHBhZ2VzOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIElFbnVtZXJhYmxlPFBvc3Q+IExvYWRQb3N0cyhJRW51bWVyYWJsZTxpbnQ+IGlkcykKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBpZHMuU2VsZWN0KGlkID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IEdldEFzeW5jKCQiL3Bvc3Qve2lkfSIpLlJlc3VsdDsKICAgICAgICAgICAgICAgIHZhciBjb250ZW50ID0gcmVzcG9uc2UuQ29udGVudC5SZWFkQXNTdHJpbmdBc3luYygpLlJlc3VsdDsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUG9zdChjb250ZW50LCBpZCk7CiAgICAgICAgICAgIH0pLlRvQXJyYXkoKTsKICAgICAgICAgICAgCiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBTYXZlSW1hZ2VzKFdlYkltYWdlW10gaW1hZ2VzLCBzdHJpbmcgcGF0aCkKICAgICAgICB7CiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgaW1hZ2VzLkxlbmd0aDsgaSsrKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgc3RyZWFtID0gR2V0U3RyZWFtQXN5bmMoaW1hZ2VzW2ldLkxpbmspLlJlc3VsdDsKICAgICAgICAgICAgICAgIHZhciBmaWxlUGF0aCA9ICQie3BhdGh9L3tpbWFnZXNbaV0uUG9zdC5JZH0te2ltYWdlc1tpXS5JbmRleH17RXh0ZW5zaW9uKGltYWdlc1tpXS5MaW5rKX0iOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB1c2luZyAodmFyIHN3ID0gbmV3IFN0cmVhbVdyaXRlcihGaWxlLkNyZWF0ZShmaWxlUGF0aCkpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHN0cmVhbS5Db3B5VG9Bc3luYyhzdy5CYXNlU3RyZWFtKS5XYWl0KCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgdmFyIHN0YXJ0SW5mbyA9IG5ldyBQcm9jZXNzU3RhcnRJbmZvKCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBGaWxlTmFtZSA9ICIvYmluL2NvbnZlcnQiLCAKICAgICAgICAgICAgICAgICAgICBBcmd1bWVudHMgPSAkIlwie2ZpbGVQYXRofVwiIC1jcm9wIC0wLTE0IFwie2ZpbGVQYXRofVwiIiwKICAgICAgICAgICAgICAgIH07IAogICAgICAgICAgICAgICAgdmFyIHByb2MgPSBuZXcgUHJvY2VzcygpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU3RhcnRJbmZvID0gc3RhcnRJbmZvLAogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgIHByb2MuU3RhcnQoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoIlt7MH0vezF9XSIsIGksIGltYWdlcy5MZW5ndGgpOwogICAgICAgICAgICAgICAgQ29uc29sZS5DdXJzb3JUb3AtLTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHJvdGVjdGVkIG92ZXJyaWRlIHZvaWQgRGlzcG9zZShib29sIGRpc3Bvc2luZykKICAgICAgICB7CiAgICAgICAgICAgIEdldEFzeW5jKCJsb2dvdXQiKTsKICAgICAgICAgICAgYmFzZS5EaXNwb3NlKGRpc3Bvc2luZyk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHN0YXRpYyBzdHJpbmcgRXh0ZW5zaW9uKHN0cmluZyBuYW1lKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIG5hbWUuU3Vic3RyaW5nKG5hbWUuTGFzdEluZGV4T2YoJy4nKSk7CiAgICAgICAgfQogICAgICAgIAogICAgfQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>COLLECTION</text>
+      </register>
+      <register name="/" type="4">
+        <text>image</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiezB9OiB7MX0iLCB0YWcuTmFtZSwgdGFnLlBvc3RzKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0bCA9IG5ldyBMaXN0PFRhZz4oKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0bC5BZGQodGFnKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRsLlNvcnQoeCA9PiB4LlBvc3RzKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuT3JkZXJCeSh4ID0+IHguUG9zdHMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ub0FycmF5KCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG9BcnJheSgpOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="y" type="2">
+        <text encoding="base64">ICAgICAgICBQYXJhbUFycmF5QXR0cmlidQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>image</last-search>
+      <last-pattern>image</last-pattern>
+      <last-replace>images[i]</last-replace>
+      <last-substitute>image</last-substitute>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

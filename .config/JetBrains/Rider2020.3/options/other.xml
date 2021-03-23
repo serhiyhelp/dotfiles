@@ -1,0 +1,91 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="12" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1m1IaBNlrNMRRCPyDHuQAuu5eBt">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1mmNJnB7kCmZmtV7HyrjSp42TMu">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1mo1SGInbOLPYyzusvcE2YLiPOB">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1n18h0oCP4kMn7qBvWi4xsodbZE">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1nYXEJypTwcLJe81vLSud7vAx21">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1o4kPrWoFH1zQ9UG2569d3vWfas">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1o7WJ64XtNcpfwl6sOE4noddDWK">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1pRPZgQJbyssVHm4Mk98HUV3Fid">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="52-52-52-255" />
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="s&#10;so&#10;sol&#10;sola&#10;vim" />
+    <property name="KEYMAP" value="line numbers" />
+    <property name="MarketplacePluginsSearchHistory" value="solar&#10;sola" />
+    <property name="Non.Modal.Commit.Single.Click2" value="true" />
+    <property name="Non.Modal.Commit4" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Light.Edit.Disabled" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="SettingsSearchHistory" value="line numbers&#10;vim&#10;liga" />
+    <property name="Tutorials.1" value="true" />
+    <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-203.7148.23-ab26465b6410ee34590a8eef4d007dc65552122ca85e3afed244a71e69a6f761" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.202" value="18" />
+    <property name="evlsprt3.203" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/src&#10;/home/serhiy/src/unity/BoBall/Assets" />
+    <property name="file.gist.reindex.count" value="42" />
+    <property name="ide.updates.previous.build.number" value="RD-203.7148.23" />
+    <property name="ideavim.statistics.timestamp" value="1615149532632" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_file_path" value="$USER_HOME$/src/unity/BoBall/Assets" />
+    <property name="last_open_solution_path" value="$USER_HOME$/src/unity/BoBall/Assets" />
+    <property name="last_opened_file_path" value="$USER_HOME$/src" />
+    <property name="last_selected_template" value="Console Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=netcoreapp3.1;Type=Class Library;Language=C#;Framework=v4.8;" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.1.3" />
+  </component>
+</application>

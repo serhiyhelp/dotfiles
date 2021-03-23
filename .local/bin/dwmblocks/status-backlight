@@ -1,0 +1,9 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+    4) xbacklight -inc 1;;
+    5) xbacklight -dec 1;;
+    6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+echo -e  "^c#268bd2^^d^ $(xbacklight | grep -o "^[0-9]*")%"

@@ -1,0 +1,28 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+    1) ponymix toggle ;;
+    3) setsid -f pavucontrol ;;
+    4) ponymix increase 2;;
+    5) ponymix decrease 2;;
+    6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+if $(ponymix is-muted)
+then
+    echo " muted"
+else
+    volume=$(ponymix get-volume)
+
+    if [ $volume -lt 10 ]
+    then
+        icon=
+    elif [ $volume -lt 40 ]
+    then
+        icon=
+    else
+        icon=
+    fi
+
+    echo "^c#268bd2^$icon^d^ $volume%"
+fi

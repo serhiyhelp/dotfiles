@@ -1,0 +1,13 @@
+[Bookmarks]
+[Recent]
+!Home
+/home/serhiy/
+/home/serhiy/media/blender/
+/home/serhiy/001/
+/home/serhiy/src/godot/Project1/Sub/
+/home/
+/home/serhiy/media/pic/
+/home/serhiy/media/pic/hdr/
+/home/serhiy/media/pic/renders/
+/home/serhiy/src/blender_solarized/
+/home/serhiy/media/

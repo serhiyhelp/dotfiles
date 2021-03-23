@@ -1,0 +1,9 @@
+#!/bin/sh
+
+case ${1:0:1} in
+    "+") xbacklight -inc ${1:1};;
+    "-") xbacklight -dec ${1:1};;
+    *) xbacklight -set $1;;
+esac
+
+pkill -RTMIN+8 dwmblocks

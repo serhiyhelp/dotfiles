@@ -1,0 +1,201 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Undo">
+        <ActionSummary times="14" last="1608895427449" />
+      </entry>
+      <entry key="ActivateFavoritesToolWindow">
+        <ActionSummary times="4" last="1608734481922" />
+      </entry>
+      <entry key="ActivateProjectToolWindow">
+        <ActionSummary times="54" last="1608987510567" />
+      </entry>
+      <entry key="BuildSolutionAction">
+        <ActionSummary times="1" last="1608759808160" />
+      </entry>
+      <entry key="ContextHelp">
+        <ActionSummary times="2" last="1608759148093" />
+      </entry>
+      <entry key="Debug">
+        <ActionSummary times="56" last="1608755834714" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="25" last="1608986882457" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="863" last="1608989507538" />
+      </entry>
+      <entry key="EditorChooseLookupItemReplace">
+        <ActionSummary times="19" last="1608989519056" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="579" last="1608989507328" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="34" last="1608989470464" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="113" last="1608989379433" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="71" last="1608987307492" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="79" last="1608988360383" />
+      </entry>
+      <entry key="Exit">
+        <ActionSummary times="3" last="1608986282097" />
+      </entry>
+      <entry key="FileChooser.ShowHiddens">
+        <ActionSummary times="4" last="1607952322767" />
+      </entry>
+      <entry key="NewRiderProject">
+        <ActionSummary times="2" last="1608654771172" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="1" last="1607952352629" />
+      </entry>
+      <entry key="ParameterInfo">
+        <ActionSummary times="1" last="1608749180744" />
+      </entry>
+      <entry key="PasteMultiple">
+        <ActionSummary times="2" last="1608988176187" />
+      </entry>
+      <entry key="RebuildSolutionAction">
+        <ActionSummary times="10" last="1608986253510" />
+      </entry>
+      <entry key="RecentFiles">
+        <ActionSummary times="1" last="1608676958830" />
+      </entry>
+      <entry key="RenameElement">
+        <ActionSummary times="1" last="1608895440359" />
+      </entry>
+      <entry key="Resume">
+        <ActionSummary times="11" last="1608753193558" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="184" last="1608989531159" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="1" last="1608679029724" />
+      </entry>
+      <entry key="SearchEverywhere">
+        <ActionSummary times="6" last="1608676202992" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="229" last="1609248825598" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="11" last="1608475664945" />
+      </entry>
+      <entry key="StepInto">
+        <ActionSummary times="1" last="1608672163216" />
+      </entry>
+      <entry key="StepOver">
+        <ActionSummary times="47" last="1608753050028" />
+      </entry>
+      <entry key="Stop">
+        <ActionSummary times="36" last="1608989321704" />
+      </entry>
+      <entry key="Switcher">
+        <ActionSummary times="14" last="1608988341344" />
+      </entry>
+      <entry key="ToggleLineBreakpoint">
+        <ActionSummary times="31" last="1608934587086" />
+      </entry>
+      <entry key="Tree-selectNext">
+        <ActionSummary times="12" last="1608753348253" />
+      </entry>
+      <entry key="Tree-selectParent">
+        <ActionSummary times="1" last="1608666194551" />
+      </entry>
+      <entry key="Tree-selectPrevious">
+        <ActionSummary times="11" last="1608753347705" />
+      </entry>
+      <entry key="WelcomeScreen.NewSolution">
+        <ActionSummary times="2" last="1608986877669" />
+      </entry>
+      <entry key="WelcomeScreen.OpenSolution">
+        <ActionSummary times="1" last="1607952311346" />
+      </entry>
+      <entry key="XDebugger.CopyValue">
+        <ActionSummary times="3" last="1608670858255" />
+      </entry>
+      <entry key="XDebugger.Inspect">
+        <ActionSummary times="1" last="1608661222233" />
+      </entry>
+      <entry key="XDebugger.NewWatch">
+        <ActionSummary times="1" last="1608661153141" />
+      </entry>
+      <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+        <ActionSummary times="2" last="1607977006465" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="10" last="1608987467010" />
+      </entry>
+      <entry key="com.intellij.ide.actions.ToolWindowMoveAction">
+        <ActionSummary times="2" last="1608654748717" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+        <ActionSummary times="4" last="1608475692396" />
+      </entry>
+      <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+        <ActionSummary times="29646" last="1609248829028" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$MarkupModelDelegateAction">
+        <ActionSummary times="4" last="1607977631656" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+        <ActionSummary times="5" last="1607977630079" />
+      </entry>
+      <entry key="com.intellij.openapi.editor.impl.InspectionPopupManager$MenuAction">
+        <ActionSummary times="1" last="1607977620405" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+        <ActionSummary times="9" last="1608753313140" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="4" last="1608676204804" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="192" last="1608989102134" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+        <ActionSummary times="4" last="1608654744530" />
+      </entry>
+      <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+        <ActionSummary times="27" last="1608755864598" />
+      </entry>
+      <entry key="com.jetbrains.rdclient.daemon.highlighters.gutterMarks.FrontendGutterIconRenderer$getClickAction$1">
+        <ActionSummary times="9" last="1608751998941" />
+      </entry>
+      <entry key="com.jetbrains.rider.build.actions.ActiveConfigurationAndPlatformAction$SelectConfigurationAction">
+        <ActionSummary times="2" last="1608989148297" />
+      </entry>
+      <entry key="com.jetbrains.rider.hyperlinks.ToggleLineBreakpointPlaceholderAction">
+        <ActionSummary times="23" last="1608755832107" />
+      </entry>
+      <entry key="com.jetbrains.rider.hyperlinks.ToggleLineDisabledBreakpointAction">
+        <ActionSummary times="1" last="1608661095396" />
+      </entry>
+      <entry key="com.jetbrains.rider.projectView.actions.newFile.RiderNewMultiFileFromTemplateAction">
+        <ActionSummary times="4" last="1608987522300" />
+      </entry>
+      <entry key="com.jetbrains.rider.ui.components.ComponentFactories$Companion$getAnAction$1">
+        <ActionSummary times="2" last="1608672217428" />
+      </entry>
+      <entry key="com.maddyhome.idea.vim.group.NotificationService$AppendToIdeaVimRcAction">
+        <ActionSummary times="1" last="1608657985574" />
+      </entry>
+      <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
+        <ActionSummary times="1" last="1607972743618" />
+      </entry>
+      <entry key="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+        <ActionSummary times="187" last="1608989527901" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="2" last="1608759738859" />
+      </entry>
+    </data>
+  </component>
+</application>

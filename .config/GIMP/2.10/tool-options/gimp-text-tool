@@ -1,0 +1,8 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.086943561208267114 0.16237988637426362 0.42892156862745101))
+(palette "Color History")
+(font "Arial")
+(box-mode fixed)
+
+# end of gimp-text-tool options

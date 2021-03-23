@@ -1,0 +1,202 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1612566827562" />
+    </e>
+    <e n="$Redo">
+      <i c="1" l="1612609667031" />
+    </e>
+    <e n="ActivateDebugToolWindow">
+      <i c="1" l="1612452055963" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="2" l="1612623445274" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="13" l="1613495508755" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="4" l="1612555457200" />
+    </e>
+    <e n="BuildButton">
+      <i c="1" l="1613737346468" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="7" l="1614885549958" />
+    </e>
+    <e n="ContextHelp">
+      <i c="1" l="1612447973464" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1612451605942" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="128" l="1614683537984" />
+    </e>
+    <e n="EditorBreadcrumbsHideBoth">
+      <i c="1" l="1614277093564" />
+    </e>
+    <e n="EditorBreadcrumbsShowAbove">
+      <i c="1" l="1614277070701" />
+    </e>
+    <e n="EditorBreadcrumbsShowBelow">
+      <i c="1" l="1614277078164" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="2362" l="1615149562640" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="29" l="1614871738133" />
+    </e>
+    <e n="EditorDown">
+      <i c="1933" l="1615149559570" />
+    </e>
+    <e n="EditorGutterToggleGlobalIndentLines">
+      <i c="2" l="1614277062435" />
+    </e>
+    <e n="EditorGutterToggleGlobalLineNumbers">
+      <i c="8" l="1614375229956" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1612543885790" />
+    </e>
+    <e n="EditorRight">
+      <i c="10" l="1612114708157" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="5" l="1612556269947" />
+    </e>
+    <e n="EditorTab">
+      <i c="116" l="1614886183076" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="4" l="1610882915542" />
+    </e>
+    <e n="EditorUp">
+      <i c="311" l="1615149561468" />
+    </e>
+    <e n="Exit">
+      <i c="13" l="1615223258453" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="18" l="1614884533255" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1613740774838" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="2" l="1612566791178" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1614375277321" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1613510187941" />
+    </e>
+    <e n="ParameterInfo">
+      <i c="5" l="1614685262715" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1611175162658" />
+    </e>
+    <e n="RebuildSolutionAction">
+      <i c="2" l="1609853119511" />
+    </e>
+    <e n="RenameElement">
+      <i c="10" l="1612609701377" />
+    </e>
+    <e n="RiderRevealFile">
+      <i c="1" l="1611568290417" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1612566841914" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="5" l="1614885104425" />
+    </e>
+    <e n="ShowGutterIconsSettings">
+      <i c="1" l="1614277100045" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="377" l="1615149630861" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="1" l="1612650830996" />
+    </e>
+    <e n="ShowSettings">
+      <i c="10" l="1614280386135" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1612452022706" />
+    </e>
+    <e n="Switcher">
+      <i c="24" l="1614882627624" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="1" l="1610802372984" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="20" l="1614884479865" />
+    </e>
+    <e n="UnityShowImportantAction">
+      <i c="1" l="1612620426909" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="2" l="1614358482524" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="4" l="1616318629378" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowMoveAction">
+      <i c="4" l="1610546639393" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="1" l="1612638064776" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1612638058609" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="8618" l="1615149639407" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="1" l="1612538834331" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="151" l="1614884223057" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="6" l="1614885105686" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="6" l="1614855477871" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="14" l="1615149537992" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+      <i c="4" l="1610546635359" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1612452027778" />
+    </e>
+    <e n="com.jetbrains.rdclient.daemon.highlighters.gutterMarks.FrontendGutterIconRenderer$getClickAction$1">
+      <i c="28" l="1614884141521" />
+    </e>
+    <e n="com.jetbrains.rider.hyperlinks.ToggleLineBreakpointPlaceholderAction">
+      <i c="1" l="1612451603704" />
+    </e>
+    <e n="com.jetbrains.rider.hyperlinks.ToggleLineDisabledBreakpointAction">
+      <i c="3" l="1614882512124" />
+    </e>
+    <e n="com.jetbrains.rider.projectView.actions.newFile.RiderNewMultiFileFromTemplateAction">
+      <i c="19" l="1612619863691" />
+    </e>
+    <e n="com.jetbrains.rider.projectView.views.SolutionViewPaneBase$initTreeHandlers$enterHandler$1">
+      <i c="1" l="1613736279264" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="599" l="1615149640077" />
+    </e>
+  </component>
+</application>

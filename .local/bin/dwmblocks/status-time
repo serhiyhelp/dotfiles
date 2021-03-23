@@ -1,0 +1,8 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+date "+^c#268bd2^^d^ %H:%M "
+#date "+^c#268bd2^^d^ %d %b ^c#268bd2^^d^ %H:%M"

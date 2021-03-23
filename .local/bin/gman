@@ -1,0 +1,4 @@
+#!/bin/sh
+
+manpage=$(apropos . | dmenu -l 20 -w $WINDOWID | awk '{print $1 $2}' | sed -e 's/(/./' -e 's/)//')
+man -Tpdf $manpage | zathura -

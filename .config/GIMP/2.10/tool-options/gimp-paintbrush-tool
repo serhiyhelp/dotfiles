@@ -1,0 +1,12 @@
+# GIMP gimp-paintbrush-tool options
+
+(foreground (color-rgb 0.086943561208267114 0.16237988637426362 0.42892156862745101))
+(brush "Acrylic 01")
+(dynamics "Pressure Opacity")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 180)
+(brush-spacing 0.11)
+(brush-force 0.26000000000000001)
+
+# end of gimp-paintbrush-tool options

@@ -1,0 +1,24 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+    1) notify-send -i /usr/share/icons/Papirus-Dark/16x16/panel/battery-good-charging.svg "$(acpi)" ;;
+    6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+
+persentage=$(</sys/class/power_supply/BAT0/capacity)
+mode=$(</sys/class/power_supply/BAT0/status)
+
+case "$mode" in
+    "Full")
+        icon="^c#268bd2^^d^"
+        ;;
+    "Discharging")
+        icon="^c#268bd2^^d^"
+        ;;
+    "Charging")
+        icon="^c#b58900^^d^"
+        ;;
+esac
+
+echo "$icon $persentage%"

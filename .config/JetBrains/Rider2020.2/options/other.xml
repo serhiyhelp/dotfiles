@@ -1,0 +1,39 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="12" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="vim" />
+    <property name="Non.Modal.Commit.Single.Click2" value="true" />
+    <property name="Non.Modal.Commit4" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Light.Edit.Disabled" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="SettingsSearchHistory" value="vim&#10;liga" />
+    <property name="Tutorials.1" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-202.7660.16-9ccd082e4108f6c2730ad73449ae1d69648847ac9cdb054fa000eb97c9c8b4e1" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.202" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/src&#10;/home/serhiy/src/unity/BoBall/Assets" />
+    <property name="ideavim.statistics.timestamp" value="1608986253805" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_file_path" value="$USER_HOME$/src/unity/BoBall/Assets" />
+    <property name="last_open_solution_path" value="$USER_HOME$/src/unity/BoBall/Assets" />
+    <property name="last_opened_file_path" value="$USER_HOME$/src" />
+    <property name="last_selected_template" value="Console Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=netcoreapp3.1;Type=Class Library;Language=C#;Framework=v4.8;" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.9.5" />
+  </component>
+</application>

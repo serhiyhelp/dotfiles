@@ -1,0 +1,461 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <marker date="1614359103931" expanded="true" signature="51:283" ph="{...}" />
+                <marker date="1614359103931" expanded="true" signature="85:94" ph="{...}" />
+                <marker date="1614359103931" expanded="true" signature="146:224" ph="{...}" />
+                <marker date="1614359103931" expanded="true" signature="269:279" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Project 1/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17293000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31542057" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32921812" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Unit Tests" order="8" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="NuGet" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="IL Viewer" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="819" y="200" key="SettingsEditor" timestamp="1614280389321">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="819" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1614280389321" />
+    <state x="1244" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1614286900281">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1244" y="259" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1614286900281" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sprite.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/181B3D09-D30B-4D83-9837-7B1820FDD680/2b/10614644/Tween.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="469" selection-start-line="469" selection-end-line="469" />
+          <folding>
+            <marker date="1614280567506" expanded="false" signature="0:277" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1614280567506" expanded="false" signature="285:318" ph="..." />
+            <marker date="1614280567506" expanded="true" signature="335:25965" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="340:2572" ph="/// &lt;para&gt;Tweens are useful for animations requiring a numerical property to be interpolated over a range of valu ... " />
+            <marker date="1614280567506" expanded="true" signature="2600:25963" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="7554:7640" ph="/// &lt;para&gt;If &lt;c&gt;true&lt;/c&gt;, the tween loops.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="7663:7741" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="7747:7889" ph="/// &lt;para&gt;The tween's animation process thread. See &lt;see cref=&quot;T:Godot.Tween.TweenProcessMode&quot; /&gt;.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="7943:8042" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="8048:8426" ph="/// &lt;para&gt;The tween's speed multiplier. For example, set it to &lt;c&gt;1.0&lt;/c&gt; for normal speed, &lt;c&gt;2.0&lt;/c&gt; for two ti ... " />
+            <marker date="1614280567506" expanded="true" signature="8457:8544" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="8584:8709" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="8769:8781" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="8787:8977" ph="/// &lt;para&gt;Returns &lt;c&gt;true&lt;/c&gt; if any tweens are currently running.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="9124:9300" ph="/// &lt;para&gt;Activates/deactivates the tween. See also &lt;see cref=&quot;M:Godot.Tween.StopAll&quot; /&gt; and &lt;see cref=&quot;M:Godot.T ... " />
+            <marker date="1614280567506" expanded="true" signature="10341:10493" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="11113:11238" ph="/// &lt;para&gt;Starts the tween. You can define animations both before and after this.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="11378:11625" ph="/// &lt;para&gt;Resets a tween to its initial value (the one given, not the one before the tween), given its object and ... " />
+            <marker date="1614280567506" expanded="true" signature="11827:11968" ph="/// &lt;para&gt;Resets all tweens to their initial values (the ones given, not those before the tween).&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="12116:12295" ph="/// &lt;para&gt;Stops a tween, given its object and property/method pair. By default, all tweens are stopped, unless &lt;c ... " />
+            <marker date="1614280567506" expanded="true" signature="12496:12577" ph="/// &lt;para&gt;Stops animating all tweens.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="12723:12924" ph="/// &lt;para&gt;Continues animating a stopped tween, given its object and property/method pair. By default, all tweens  ... " />
+            <marker date="1614280567506" expanded="true" signature="13129:13222" ph="/// &lt;para&gt;Continues animating all stopped tweens.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="13372:13573" ph="/// &lt;para&gt;Stops animation and removes a tween, given its object and property/method pair. By default, all tweens  ... " />
+            <marker date="1614280567506" expanded="true" signature="13778:13871" ph="/// &lt;para&gt;Stops animation and removes all tweens.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="14021:14134" ph="/// &lt;para&gt;Sets the interpolation to the given &lt;c&gt;time&lt;/c&gt; in seconds.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="14295:14387" ph="/// &lt;para&gt;Returns the current time of the tween.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="14437:14590" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="14596:14851" ph="/// &lt;para&gt;Returns the total time needed for all tweens to end. If you have two tweens, one lasting 10 seconds and ... " />
+            <marker date="1614280567506" expanded="true" signature="14914:15067" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="15073:15632" ph="/// &lt;para&gt;Animates &lt;c&gt;property&lt;/c&gt; of &lt;c&gt;object&lt;/c&gt; from &lt;c&gt;initial_val&lt;/c&gt; to &lt;c&gt;final_val&lt;/c&gt; for &lt;c&gt;duration&lt;/ ... " />
+            <marker date="1614280567506" expanded="true" signature="15976:16215" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="16221:16741" ph="/// &lt;para&gt;Animates &lt;c&gt;method&lt;/c&gt; of &lt;c&gt;object&lt;/c&gt; from &lt;c&gt;initial_val&lt;/c&gt; to &lt;c&gt;final_val&lt;/c&gt; for &lt;c&gt;duration&lt;/c&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="17077:17297" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="17303:17486" ph="/// &lt;para&gt;Calls &lt;c&gt;callback&lt;/c&gt; of &lt;c&gt;object&lt;/c&gt; after &lt;c&gt;duration&lt;/c&gt;. &lt;c&gt;arg1&lt;/c&gt;-&lt;c&gt;arg5&lt;/c&gt; are arguments to  ... " />
+            <marker date="1614280567506" expanded="true" signature="17762:17948" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="17954:18243" ph="/// &lt;para&gt;Calls &lt;c&gt;callback&lt;/c&gt; of &lt;c&gt;object&lt;/c&gt; after &lt;c&gt;duration&lt;/c&gt; on the main thread (similar to &lt;see cref=&quot; ... " />
+            <marker date="1614280567506" expanded="true" signature="18536:18722" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="18728:19254" ph="/// &lt;para&gt;Follows &lt;c&gt;property&lt;/c&gt; of &lt;c&gt;object&lt;/c&gt; and applies it on &lt;c&gt;target_property&lt;/c&gt; of &lt;c&gt;target&lt;/c&gt;, beg ... " />
+            <marker date="1614280567506" expanded="true" signature="19617:19902" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="19908:20482" ph="/// &lt;para&gt;Follows &lt;c&gt;method&lt;/c&gt; of &lt;c&gt;object&lt;/c&gt; and applies the returned value on &lt;c&gt;target_method&lt;/c&gt; of &lt;c&gt;tar ... " />
+            <marker date="1614280567506" expanded="true" signature="20833:21080" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="21086:21616" ph="/// &lt;para&gt;Animates &lt;c&gt;property&lt;/c&gt; of &lt;c&gt;object&lt;/c&gt; from the current value of the &lt;c&gt;initial_val&lt;/c&gt; property of  ... " />
+            <marker date="1614280567506" expanded="true" signature="21980:22260" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="22266:22829" ph="/// &lt;para&gt;Animates &lt;c&gt;method&lt;/c&gt; of &lt;c&gt;object&lt;/c&gt; from the value returned by &lt;c&gt;initial_method&lt;/c&gt; to &lt;c&gt;final_va ... " />
+            <marker date="1614280567506" expanded="true" signature="23186:23433" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="23465:25041" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="23478:23575" ph="/// &lt;para&gt;The animation is interpolated linearly.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="23596:23706" ph="/// &lt;para&gt;The animation is interpolated using a sine function.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="23725:23857" ph="/// &lt;para&gt;The animation is interpolated with a quintic (to the power of 5) function.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="23877:24009" ph="/// &lt;para&gt;The animation is interpolated with a quartic (to the power of 4) function.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="24029:24163" ph="/// &lt;para&gt;The animation is interpolated with a quadratic (to the power of 2) function.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="24182:24319" ph="/// &lt;para&gt;The animation is interpolated with an exponential (to the power of x) function.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="24338:24469" ph="/// &lt;para&gt;The animation is interpolated with elasticity, wiggling around the edges.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="24491:24621" ph="/// &lt;para&gt;The animation is interpolated with a cubic (to the power of 3) function.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="24641:24764" ph="/// &lt;para&gt;The animation is interpolated with a function using square roots.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="24783:24894" ph="/// &lt;para&gt;The animation is interpolated by bouncing at the end.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="24915:25023" ph="/// &lt;para&gt;The animation is interpolated backing out at ends.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="25075:25356" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="25088:25206" ph="/// &lt;para&gt;The tween updates with the &lt;c&gt;_physics_process&lt;/c&gt; callback.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="25228:25338" ph="/// &lt;para&gt;The tween updates with the &lt;c&gt;_process&lt;/c&gt; callback.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="25382:25959" ph="{...}" />
+            <marker date="1614280567506" expanded="true" signature="25395:25515" ph="/// &lt;para&gt;The interpolation starts slowly and speeds up towards the end.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="25532:25654" ph="/// &lt;para&gt;The interpolation starts quickly and slows down towards the end.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="25672:25796" ph="/// &lt;para&gt;A combination of  and . The interpolation is slowest at both ends.&lt;/para&gt; ... " />
+            <marker date="1614280567506" expanded="true" signature="25816:25940" ph="/// &lt;para&gt;A combination of  and . The interpolation is fastest at both ends.&lt;/para&gt; ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <marker date="1614284047146" expanded="true" signature="6:26" ph="..." />
+            <marker date="1614284047146" expanded="true" signature="54:456" ph="{...}" />
+            <marker date="1614284047146" expanded="true" signature="58:155" ph="/* Declare member variables here. Examples: ... */" />
+            <marker date="1614284047146" expanded="true" signature="278:304" ph="{...}" />
+            <marker date="1614284047146" expanded="true" signature="306:454" ph="/* Called every frame. 'delta' is the elapsed time since the previous frame. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/181B3D09-D30B-4D83-9837-7B1820FDD680/eb/82b9dbcf/KeyList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <marker date="1614288731672" expanded="false" signature="0:279" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1614288731672" expanded="true" signature="296:25679" ph="{...}" />
+            <marker date="1614288731672" expanded="true" signature="320:25677" ph="{...}" />
+            <marker date="1614288731672" expanded="true" signature="329:393" ph="/// &lt;para&gt;Space key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="428:488" ph="/// &lt;para&gt;! key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="524:584" ph="/// &lt;para&gt;&quot; key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="622:682" ph="/// &lt;para&gt;## key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="722:782" ph="/// &lt;para&gt;$ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="818:878" ph="/// &lt;para&gt;% key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="915:979" ph="/// &lt;para&gt;&amp;amp; key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1018:1078" ph="/// &lt;para&gt;' key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1118:1178" ph="/// &lt;para&gt;( key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1217:1277" ph="/// &lt;para&gt;) key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1317:1377" ph="/// &lt;para&gt;* key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1415:1475" ph="/// &lt;para&gt;+ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1509:1569" ph="/// &lt;para&gt;, key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1604:1664" ph="/// &lt;para&gt;- key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1699:1759" ph="/// &lt;para&gt;. key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1795:1855" ph="/// &lt;para&gt;/ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1890:1953" ph="/// &lt;para&gt;Number 0.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="1987:2050" ph="/// &lt;para&gt;Number 1.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2084:2147" ph="/// &lt;para&gt;Number 2.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2181:2244" ph="/// &lt;para&gt;Number 3.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2278:2341" ph="/// &lt;para&gt;Number 4.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2375:2438" ph="/// &lt;para&gt;Number 5.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2472:2535" ph="/// &lt;para&gt;Number 6.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2569:2632" ph="/// &lt;para&gt;Number 7.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2666:2729" ph="/// &lt;para&gt;Number 8.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2763:2826" ph="/// &lt;para&gt;Number 9.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2860:2920" ph="/// &lt;para&gt;: key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="2955:3015" ph="/// &lt;para&gt;; key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3054:3117" ph="/// &lt;para&gt;&amp;lt; key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3151:3211" ph="/// &lt;para&gt;= key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3246:3309" ph="/// &lt;para&gt;&amp;gt; key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3346:3406" ph="/// &lt;para&gt;? key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3444:3504" ph="/// &lt;para&gt;@ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3536:3596" ph="/// &lt;para&gt;A key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3627:3687" ph="/// &lt;para&gt;B key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3718:3778" ph="/// &lt;para&gt;C key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3809:3869" ph="/// &lt;para&gt;D key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3900:3960" ph="/// &lt;para&gt;E key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="3991:4051" ph="/// &lt;para&gt;F key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4082:4142" ph="/// &lt;para&gt;G key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4173:4233" ph="/// &lt;para&gt;H key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4264:4324" ph="/// &lt;para&gt;I key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4355:4415" ph="/// &lt;para&gt;J key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4446:4506" ph="/// &lt;para&gt;K key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4537:4597" ph="/// &lt;para&gt;L key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4628:4688" ph="/// &lt;para&gt;M key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4719:4779" ph="/// &lt;para&gt;N key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4810:4870" ph="/// &lt;para&gt;O key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4901:4961" ph="/// &lt;para&gt;P key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="4992:5052" ph="/// &lt;para&gt;Q key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5083:5143" ph="/// &lt;para&gt;R key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5174:5234" ph="/// &lt;para&gt;S key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5265:5325" ph="/// &lt;para&gt;T key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5356:5416" ph="/// &lt;para&gt;U key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5447:5507" ph="/// &lt;para&gt;V key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5538:5598" ph="/// &lt;para&gt;W key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5629:5689" ph="/// &lt;para&gt;X key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5720:5780" ph="/// &lt;para&gt;Y key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5811:5871" ph="/// &lt;para&gt;Z key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="5902:5962" ph="/// &lt;para&gt;[ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6003:6063" ph="/// &lt;para&gt;\ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6102:6162" ph="/// &lt;para&gt;] key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6204:6264" ph="/// &lt;para&gt;^ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6305:6365" ph="/// &lt;para&gt;_ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6405:6465" ph="/// &lt;para&gt;` key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6504:6564" ph="/// &lt;para&gt;{ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6604:6664" ph="/// &lt;para&gt;| key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6698:6758" ph="/// &lt;para&gt;} key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6799:6859" ph="/// &lt;para&gt;~ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="6900:6978" ph="/// &lt;para&gt;Non-breakable space key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7021:7081" ph="/// &lt;para&gt;¡ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7122:7182" ph="/// &lt;para&gt;¢ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7217:7277" ph="/// &lt;para&gt;£ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7316:7376" ph="/// &lt;para&gt;¤ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7415:7475" ph="/// &lt;para&gt;¥ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7509:7569" ph="/// &lt;para&gt;¦ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7609:7669" ph="/// &lt;para&gt;§ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7707:7767" ph="/// &lt;para&gt;¨ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7807:7867" ph="/// &lt;para&gt;© key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="7907:7967" ph="/// &lt;para&gt;ª key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8009:8069" ph="/// &lt;para&gt;« key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8113:8173" ph="/// &lt;para&gt;¬ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8211:8281" ph="/// &lt;para&gt;Soft hyphen key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8318:8378" ph="/// &lt;para&gt;® key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8419:8479" ph="/// &lt;para&gt;¯ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8516:8576" ph="/// &lt;para&gt;° key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8613:8673" ph="/// &lt;para&gt;± key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8713:8773" ph="/// &lt;para&gt;² key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8815:8875" ph="/// &lt;para&gt;³ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="8919:8979" ph="/// &lt;para&gt;´ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9015:9075" ph="/// &lt;para&gt;µ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9108:9168" ph="/// &lt;para&gt;¶ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9208:9268" ph="/// &lt;para&gt;· key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9313:9373" ph="/// &lt;para&gt;¸ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9411:9471" ph="/// &lt;para&gt;¹ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9513:9573" ph="/// &lt;para&gt;º key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9613:9673" ph="/// &lt;para&gt;» key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9718:9778" ph="/// &lt;para&gt;¼ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9819:9879" ph="/// &lt;para&gt;½ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="9917:9977" ph="/// &lt;para&gt;¾ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10021:10081" ph="/// &lt;para&gt;¿ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10124:10184" ph="/// &lt;para&gt;À key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10221:10281" ph="/// &lt;para&gt;Á key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10318:10378" ph="/// &lt;para&gt;Â key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10420:10480" ph="/// &lt;para&gt;Ã key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10517:10577" ph="/// &lt;para&gt;Ä key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10618:10678" ph="/// &lt;para&gt;Å key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10714:10774" ph="/// &lt;para&gt;Æ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10807:10867" ph="/// &lt;para&gt;Ç key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="10906:10966" ph="/// &lt;para&gt;È key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11003:11063" ph="/// &lt;para&gt;É key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11100:11160" ph="/// &lt;para&gt;Ê key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11202:11262" ph="/// &lt;para&gt;Ë key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11303:11363" ph="/// &lt;para&gt;Ì key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11400:11460" ph="/// &lt;para&gt;Í key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11497:11557" ph="/// &lt;para&gt;Î key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11599:11659" ph="/// &lt;para&gt;Ï key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11700:11760" ph="/// &lt;para&gt;Ð key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11794:11854" ph="/// &lt;para&gt;Ñ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11891:11951" ph="/// &lt;para&gt;Ò key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="11988:12048" ph="/// &lt;para&gt;Ó key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12085:12145" ph="/// &lt;para&gt;Ô key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12187:12247" ph="/// &lt;para&gt;Õ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12284:12344" ph="/// &lt;para&gt;Ö key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12385:12445" ph="/// &lt;para&gt;× key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12484:12544" ph="/// &lt;para&gt;Ø key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12583:12643" ph="/// &lt;para&gt;Ù key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12680:12740" ph="/// &lt;para&gt;Ú key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12777:12837" ph="/// &lt;para&gt;Û key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12879:12939" ph="/// &lt;para&gt;Ü key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="12980:13040" ph="/// &lt;para&gt;Ý key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13077:13137" ph="/// &lt;para&gt;Þ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13173:13233" ph="/// &lt;para&gt;ß key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13270:13330" ph="/// &lt;para&gt;÷ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13369:13429" ph="/// &lt;para&gt;ÿ key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13470:13535" ph="/// &lt;para&gt;Escape key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13577:13639" ph="/// &lt;para&gt;Tab key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13678:13746" ph="/// &lt;para&gt;Shift+Tab key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13789:13857" ph="/// &lt;para&gt;Backspace key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="13902:13990" ph="/// &lt;para&gt;Return key (on the main keyboard).&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14031:14117" ph="/// &lt;para&gt;Enter key on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14160:14225" ph="/// &lt;para&gt;Insert key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14267:14332" ph="/// &lt;para&gt;Delete key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14374:14438" ph="/// &lt;para&gt;Pause key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14479:14550" ph="/// &lt;para&gt;Print Screen key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14591:14664" ph="/// &lt;para&gt;System Request key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14706:14770" ph="/// &lt;para&gt;Clear key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14811:14874" ph="/// &lt;para&gt;Home key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="14914:14976" ph="/// &lt;para&gt;End key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15015:15084" ph="/// &lt;para&gt;Left arrow key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15124:15191" ph="/// &lt;para&gt;Up arrow key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15229:15299" ph="/// &lt;para&gt;Right arrow key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15340:15409" ph="/// &lt;para&gt;Down arrow key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15449:15515" ph="/// &lt;para&gt;Page Up key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15557:15625" ph="/// &lt;para&gt;Page Down key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15669:15733" ph="/// &lt;para&gt;Shift key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15774:15840" ph="/// &lt;para&gt;Control key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15883:15946" ph="/// &lt;para&gt;Meta key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="15986:16048" ph="/// &lt;para&gt;Alt key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16087:16155" ph="/// &lt;para&gt;Caps Lock key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16199:16266" ph="/// &lt;para&gt;Num Lock key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16309:16379" ph="/// &lt;para&gt;Scroll Lock key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16425:16486" ph="/// &lt;para&gt;F1 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16524:16585" ph="/// &lt;para&gt;F2 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16623:16684" ph="/// &lt;para&gt;F3 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16722:16783" ph="/// &lt;para&gt;F4 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16821:16882" ph="/// &lt;para&gt;F5 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="16920:16981" ph="/// &lt;para&gt;F6 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17019:17080" ph="/// &lt;para&gt;F7 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17118:17179" ph="/// &lt;para&gt;F8 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17217:17278" ph="/// &lt;para&gt;F9 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17316:17378" ph="/// &lt;para&gt;F10 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17417:17479" ph="/// &lt;para&gt;F11 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17518:17580" ph="/// &lt;para&gt;F12 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17619:17681" ph="/// &lt;para&gt;F13 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17720:17782" ph="/// &lt;para&gt;F14 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17821:17883" ph="/// &lt;para&gt;F15 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="17922:17984" ph="/// &lt;para&gt;F16 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18023:18106" ph="/// &lt;para&gt;Left Super key (Windows key).&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18148:18232" ph="/// &lt;para&gt;Right Super key (Windows key).&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18274:18345" ph="/// &lt;para&gt;Context menu key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18385:18454" ph="/// &lt;para&gt;Left Hyper key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18496:18566" ph="/// &lt;para&gt;Right Hyper key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18608:18671" ph="/// &lt;para&gt;Help key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18711:18784" ph="/// &lt;para&gt;Left Direction key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18830:18904" ph="/// &lt;para&gt;Right Direction key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="18950:19081" ph="/// &lt;para&gt;Media back key. Not to be confused with the Back button on an Android device.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="19121:19193" ph="/// &lt;para&gt;Media forward key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="19236:19305" ph="/// &lt;para&gt;Media stop key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="19345:19417" ph="/// &lt;para&gt;Media refresh key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="19460:19530" ph="/// &lt;para&gt;Volume down key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="19576:19646" ph="/// &lt;para&gt;Mute volume key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="19692:19760" ph="/// &lt;para&gt;Volume up key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="19804:19873" ph="/// &lt;para&gt;Bass Boost key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="19918:19984" ph="/// &lt;para&gt;Bass up key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20026:20094" ph="/// &lt;para&gt;Bass down key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20138:20206" ph="/// &lt;para&gt;Treble up key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20250:20320" ph="/// &lt;para&gt;Treble down key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20366:20435" ph="/// &lt;para&gt;Media play key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20480:20549" ph="/// &lt;para&gt;Media stop key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20594:20666" ph="/// &lt;para&gt;Previous song key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20715:20783" ph="/// &lt;para&gt;Next song key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20828:20899" ph="/// &lt;para&gt;Media record key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="20946:21014" ph="/// &lt;para&gt;Home page key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21058:21126" ph="/// &lt;para&gt;Favorites key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21171:21236" ph="/// &lt;para&gt;Search key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21278:21344" ph="/// &lt;para&gt;Standby key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21387:21471" ph="/// &lt;para&gt;Open URL / Launch Browser key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21514:21584" ph="/// &lt;para&gt;Launch Mail key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21630:21701" ph="/// &lt;para&gt;Launch Media key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21748:21824" ph="/// &lt;para&gt;Launch Shortcut 0 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21867:21943" ph="/// &lt;para&gt;Launch Shortcut 1 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="21986:22062" ph="/// &lt;para&gt;Launch Shortcut 2 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="22105:22181" ph="/// &lt;para&gt;Launch Shortcut 3 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="22224:22300" ph="/// &lt;para&gt;Launch Shortcut 4 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="22343:22419" ph="/// &lt;para&gt;Launch Shortcut 5 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="22462:22538" ph="/// &lt;para&gt;Launch Shortcut 6 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="22581:22657" ph="/// &lt;para&gt;Launch Shortcut 7 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="22700:22776" ph="/// &lt;para&gt;Launch Shortcut 8 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="22819:22895" ph="/// &lt;para&gt;Launch Shortcut 9 key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="22938:23014" ph="/// &lt;para&gt;Launch Shortcut A key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="23057:23133" ph="/// &lt;para&gt;Launch Shortcut B key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="23176:23252" ph="/// &lt;para&gt;Launch Shortcut C key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="23295:23371" ph="/// &lt;para&gt;Launch Shortcut D key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="23414:23490" ph="/// &lt;para&gt;Launch Shortcut E key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="23533:23609" ph="/// &lt;para&gt;Launch Shortcut F key.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="23652:23745" ph="/// &lt;para&gt;Multiply (*) key on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="23791:23882" ph="/// &lt;para&gt;Divide (/) key on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="23926:24019" ph="/// &lt;para&gt;Subtract (-) key on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="24065:24156" ph="/// &lt;para&gt;Period (.) key on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="24200:24288" ph="/// &lt;para&gt;Add (+) key on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="24329:24414" ph="/// &lt;para&gt;Number 0 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="24453:24538" ph="/// &lt;para&gt;Number 1 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="24577:24662" ph="/// &lt;para&gt;Number 2 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="24701:24786" ph="/// &lt;para&gt;Number 3 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="24825:24910" ph="/// &lt;para&gt;Number 4 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="24949:25034" ph="/// &lt;para&gt;Number 5 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="25073:25158" ph="/// &lt;para&gt;Number 6 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="25197:25282" ph="/// &lt;para&gt;Number 7 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="25321:25406" ph="/// &lt;para&gt;Number 8 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="25445:25530" ph="/// &lt;para&gt;Number 9 on the numeric keypad.&lt;/para&gt; ... " />
+            <marker date="1614288731672" expanded="true" signature="25569:25635" ph="/// &lt;para&gt;Unknown key.&lt;/para&gt; ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySprite.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <marker date="1614348272855" expanded="true" signature="6:26" ph="..." />
+            <marker date="1614348272855" expanded="true" signature="58:678" ph="{...}" />
+            <marker date="1614348272855" expanded="true" signature="211:344" ph="{...}" />
+            <marker date="1614348272855" expanded="true" signature="388:535" ph="{...}" />
+            <marker date="1614348272855" expanded="true" signature="426:532" ph="{...}" />
+            <marker date="1614348272855" expanded="true" signature="491:528" ph="{...}" />
+            <marker date="1614348272855" expanded="true" signature="561:583" ph="{...}" />
+            <marker date="1614348272855" expanded="true" signature="628:676" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1614359103931" expanded="true" signature="51:283" ph="{...}" />
+            <marker date="1614359103931" expanded="true" signature="85:94" ph="{...}" />
+            <marker date="1614359103931" expanded="true" signature="146:224" ph="{...}" />
+            <marker date="1614359103931" expanded="true" signature="269:279" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

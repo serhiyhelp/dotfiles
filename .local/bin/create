@@ -1,0 +1,56 @@
+#!/bin/sh
+
+type=$(echo "\
+shell script
+awk script
+groff ms document
+Лабараторна робота (groff_ms)
+html document \
+" | dmenu -w $WINDOWID -l 5)
+
+[ -z "$type" ] && exit 1
+
+#echo -n "Enter file name: "
+#read filename
+filename=$(echo "" | dmenu -p "Enter file name" -w $WINDOWID)
+
+[ -z "$filename" ] && exit 1
+
+case "$type" in
+    "shell script")
+    echo "#!/bin/sh"                    >  "$filename.sh"
+    chmod +x "$filename.sh"
+    nvim "$filename.sh"
+    ;;
+
+"groff ms document")
+    echo ".TL"                          >  "$filename.ms"
+    echo "$filename"                    >> "$filename.ms"
+    echo ".AU"                          >> "$filename.ms"
+    echo "Сергій Сергійчук"             >> "$filename.ms"
+    nvim "$filename.ms"
+    ;;
+
+"Лабараторна робота (groff_ms)")
+    echo ".mso tmac.ref"                >  "$filename.ms"
+    echo ".COVER L 1 \"<++>\" \"<++>\" \"2021\"" >> "$filename.ms"
+    echo ".SH"                          >> "$filename.ms"
+    echo "Завдання"                     >> "$filename.ms"
+    echo ".PP"                          >> "$filename.ms"
+    echo "<++>"                         >> "$filename.ms"
+    nvim "$filename.ms"
+    ;;
+
+"html")
+    echo "<!DOCTYPE html>"              >  "$2.html"
+    echo "<html>"                       >> "$2.html"
+    echo "<head>"                       >> "$2.html"
+    echo "    <link rel=\"stylesheet\" href=\"mystyle.css\">" >> "$2.html"
+    echo "</head>"                      >> "$2.html"
+    echo "<body>"                       >> "$2.html"
+    echo "    <++>"                     >> "$2.html"
+    echo "</body>"                      >> "$2.html"
+    echo "</html>"                      >> "$2.html"
+    nvim "$filename.html"
+    ;;
+esac

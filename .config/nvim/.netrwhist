@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/serhiy/.config/sxhkd'
+let g:netrw_dirhist_7='/home/serhiy/src/unity/Jiggler/Assets/Objects/Coin'
+let g:netrw_dirhist_6='/home/serhiy/src/unity/Jiggler/Assets/Objects'
+let g:netrw_dirhist_5='/home/serhiy/src/unity/Jiggler/Assets'
+let g:netrw_dirhist_4='/home/serhiy/src/unity/Jiggler'
+let g:netrw_dirhist_3='/home/serhiy/.config/sxhkd'
+let g:netrw_dirhist_2='/usr/share/X11/xorg.conf.d'
+let g:netrw_dirhist_1='/home/serhiy/src/dotfiles/etc.xorg'
