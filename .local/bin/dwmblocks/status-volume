@@ -3,8 +3,8 @@
 case $BLOCK_BUTTON in
     1) ponymix toggle ;;
     3) setsid -f pavucontrol ;;
-    4) ponymix increase 2;;
-    5) ponymix decrease 2;;
+    4) ponymix increase 5;;
+    5) ponymix decrease 5;;
     6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 

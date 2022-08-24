@@ -1,0 +1,57 @@
+#!/bin/sed -Ef
+
+s|(.*)|\L\1|
+
+s|^| |
+
+s|зг|zgh|g
+
+s|а|a|g
+s|б|b|g
+s|в|v|g
+s|г|h|g
+s|ґ|g|g
+s|д|d|g
+s|е|e|g
+
+s| є| ye|g
+s|є|ie|g
+
+s|ж|zh|g
+s|з|z|g
+s|и|y|g
+s|і|i|g
+
+s| ї| yi|g
+s|ї|i|g
+
+s| й| y|g
+s|й|i|g
+
+s|к|k|g
+s|л|l|g
+s|м|m|g
+s|н|n|g
+s|о|o|g
+s|п|p|g
+s|р|r|g
+s|с|s|g
+s|т|t|g
+s|у|u|g
+s|ф|f|g
+
+s|х|kh|g
+s|ц|ts|g
+s|ч|ch|g
+s|ш|sh|g
+s|щ|shch|g
+s| ю| yu|g
+s|ю|iu|g
+s| я| ya|g
+s|я|ia|g
+
+s| |-|g
+
+s|[^a-z-]||g
+
+s|^.||

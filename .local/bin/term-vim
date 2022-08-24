@@ -1,0 +1,12 @@
+#!/bin/sh
+
+
+#nvr -s --remote-tab "$1"
+
+if nvr --nostart -s --remote-tab "$1"
+then
+    echo "1"
+else
+    alacritty -e remote-vim "$1"
+fi
+

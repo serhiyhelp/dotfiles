@@ -1,17 +1,17 @@
 #!/bin/sh
 
 cat <<EOF | xmenu | awk '{print $NF}'
-[]= tile                      0
-[M] monocle                   1
-[@] spiral                    2
-[\\] dwindle                  3
-H[] deck                      4
-TTT bstack                    5
-=== bstackhoriz               6
-HHH grid                      7
-### nrowgrid                  8
---- horizgrid                 9
-::: gaplessgrid              10
-|M| centeredmaster           11
->M> centeredfloatingmaster   12
+[]= плитка                  0
+[M] монокль                 1
+[@] спіраль                 2
+[\\] сходинка               3
+H[] колода                  4
+TTT рядок                   5
+=== стоппчик                6
+HHH сітка                   7
+### т-рядкова сітка         8
+--- гор. сітка              9
+::: сітка без проміжків    10
+|M| центрований            11
+>M> центрований плаваючий  12
 EOF

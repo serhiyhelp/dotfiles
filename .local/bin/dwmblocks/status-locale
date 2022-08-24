@@ -5,4 +5,7 @@ case $BLOCK_BUTTON in
     6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
-echo -e "🐥 $(xkb-switch)\x02"
+case $(xkb-switch) in
+    'us') echo -e "🐥 eng\x02" ;;
+	'ua(winkeys)') echo -e "🐥 укр\x02" ;;
+esac

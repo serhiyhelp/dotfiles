@@ -14,10 +14,17 @@ case "$mode" in
         icon="^c#268bd2^^d^"
         ;;
     "Discharging")
-        icon="^c#268bd2^^d^"
+		if [ $persentage -gt 20 ]; then
+			icon="^c#268bd2^^d^"
+		else
+			icon="^c#dc322f^^d^"
+		fi
         ;;
     "Charging")
         icon="^c#b58900^^d^"
+        ;;
+    *)
+        icon="^c#268bd2^^d^"
         ;;
 esac
 

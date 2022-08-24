@@ -1,9 +1,9 @@
 #!/bin/bash
 
-pw=" poweroff"
-rb=" reboot"
+pw=" Вимкнення"
+rb=" Перезавантаження"
 
-option=$(echo -e "$rb\n$pw" | dmenu -p "select an option")
+option=$(echo -e "$rb\n$pw" | dmenu -p "Дія: ")
 
 if [ "$option" = "$pw" ]
 then

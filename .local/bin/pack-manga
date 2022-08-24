@@ -1,0 +1,13 @@
+#!/bin/sh
+
+zip -r "$1" "$1"
+
+AR="$1.zip"
+
+transmission-daemon
+
+transmission-create --tracker "http://ehtracker.org/2160605/announce" --comment "$2" "$AR"
+
+TR="$AR.torrent"
+
+transmission-remote --add "$TR" --download-dir `pwd`
