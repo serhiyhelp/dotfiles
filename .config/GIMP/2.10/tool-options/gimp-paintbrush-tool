@@ -1,12 +1,17 @@
 # GIMP gimp-paintbrush-tool options
 
-(foreground (color-rgb 0.086943561208267114 0.16237988637426362 0.42892156862745101))
-(brush "Acrylic 01")
-(dynamics "Pressure Opacity")
-(gradient "FG to BG (RGB)")
-(palette "Color History")
-(brush-size 180)
-(brush-spacing 0.11)
-(brush-force 0.26000000000000001)
+(foreground (color-rgb 1 1 1))
+(brush "Звукова ручка")
+(dynamics "Без назви")
+(gradient "Нетипове")
+(palette "Standard")
+(brush-size 25)
+(brush-angle -27)
+(brush-spacing 0.040000000000000001)
+(brush-hardness 0.93999999999999995)
+(brush-force 1)
+(use-smoothing yes)
+(smoothing-quality 52)
+(smoothing-factor 397.39999999999998)
 
 # end of gimp-paintbrush-tool options

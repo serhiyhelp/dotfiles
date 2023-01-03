@@ -47,6 +47,8 @@ def_key "7"
   show_outputs
 def_key "8"
   show_visualizer
+def_key "9"
+	show_clock
 
 def_key "p"
   pause
@@ -143,9 +145,9 @@ def_key "I"
 def_key "@"
   show_server_info
 
-def_key "ctrl-v"
-  select_range
 def_key "v"
+  select_range
+def_key "ctrl-v"
   reverse_selection
 def_key "V"
   remove_selection
@@ -186,10 +188,10 @@ def_key "D"
 #
 #def_key "S"
 #  save_playlist
-#
-#def_key "o"
-#  jump_to_playing_song
-#
+
+def_key "o"
+  jump_to_playing_song
+
 #def_key "P"
 #  toggle_display_mode
 #def_key "!"
@@ -245,3 +247,10 @@ def_key "J"
     move_sort_order_down
 def_key "K"
     move_sort_order_up
+
+
+
+
+def_key "з"
+  pause
+

@@ -1,0 +1,24 @@
+# settings
+
+(GimpGegl-gegl-displace-config "2021-07-23 17:07:26"
+    (time 1627049246)
+    (displace-mode cartesian)
+    (sampler-type cubic)
+    (abyss-policy clamp)
+    (amount-x 225.13)
+    (amount-y 225.13)
+    (center no)
+    (center-x 0.5)
+    (center-y 0.5))
+(GimpGegl-gegl-displace-config "2021-07-11 17:10:25"
+    (time 1626012625)
+    (displace-mode cartesian)
+    (sampler-type cubic)
+    (abyss-policy clamp)
+    (amount-x 337.69999999999999)
+    (amount-y 337.69999999999999)
+    (center no)
+    (center-x 0.5)
+    (center-y 0.5))
+
+# end of settings

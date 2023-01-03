@@ -1,0 +1,12 @@
+# GIMP gimp-clone-tool options
+
+(brush "2. Hardness 100")
+(dynamics "Без назви")
+(pattern "Dried mud")
+(palette "Standard")
+(brush-size 11)
+(brush-spacing 0.092000000000000026)
+(brush-hardness 0.81999999999999995)
+(brush-force 0.89000000000000001)
+
+# end of gimp-clone-tool options

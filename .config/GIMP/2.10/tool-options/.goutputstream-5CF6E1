@@ -1,0 +1,10 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.17862017066108851 0.17862017066108851 0.17862017066108851))
+(palette "Standard")
+(font "v_CCPulp Fiction")
+(font-size 18)
+(justify center)
+(box-mode fixed)
+
+# end of gimp-text-tool options

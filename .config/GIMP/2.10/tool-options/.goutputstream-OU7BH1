@@ -1,0 +1,10 @@
+# GIMP gimp-vector-tool options
+
+(background (color-rgb 0.0039215688593685627 0.0039215688593685627 0.0039215688593685627))
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(pattern "Dried mud")
+(gradient "Standard")
+(palette "Standard")
+
+# end of gimp-vector-tool options

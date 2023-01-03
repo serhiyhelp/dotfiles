@@ -1,0 +1,8 @@
+# GIMP gimp-crop-tool options
+
+(aspect-denominator 1924)
+(aspect-numerator 1999)
+(foreground (color-rgb 0.13822076501321348 0.55385761876260076 0.40472162744913653))
+(pattern "Nops")
+
+# end of gimp-crop-tool options

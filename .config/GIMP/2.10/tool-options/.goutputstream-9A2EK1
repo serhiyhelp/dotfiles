@@ -1,0 +1,11 @@
+# GIMP gimp-vector-tool options
+
+(foreground (color-rgb 0.18039216101169586 0.16078431904315948 0.14509804546833038))
+(background (color-rgb 0 0 0))
+(brush "Звукова ручка")
+(dynamics "Pencil Generic")
+(pattern "Dried mud")
+(gradient "Нетипове")
+(palette "Standard")
+
+# end of gimp-vector-tool options

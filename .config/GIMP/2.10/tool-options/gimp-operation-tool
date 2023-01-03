@@ -1,5 +1,6 @@
 # GIMP gimp-operation-tool options
 
-(foreground (color-rgb 0.086943561208267114 0.16237988637426362 0.42892156862745101))
+(foreground (color-rgb 1 1 1))
+(blending-options-expanded yes)
 
 # end of gimp-operation-tool options

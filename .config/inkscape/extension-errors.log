@@ -1,18 +1,36 @@
-Extension "Export to PDF via Scribus" failed to load because a dependency was not met.
-Dependency:
-	type: executable
-	location: path
-	string: scribus
+Не вдалося завантажити розширення «Fillet and Chamfer». Причина: залежність не було задоволено.
+Залежність:
+	тип: file
+	розташування: extensions
+	рядок: inkex.py
 
-Extension "XFIG Input" failed to load because a dependency was not met.
-Dependency:
-	type: executable
-	location: path
-	string: fig2dev
+Не вдалося завантажити розширення «Object gradient». Причина: залежність не було задоволено.
+Залежність:
+	тип: file
+	розташування: extensions
+	рядок: inkex.py
 
-Extension "LaTeX (pdflatex)" failed to load because a dependency was not met.
-Dependency:
-	type: executable
-	location: path
-	string: pdflatex
+Не вдалося завантажити розширення «Export to PDF via Scribus». Причина: залежність не було задоволено.
+Залежність:
+	тип: executable
+	розташування: контур
+	рядок: scribus
+
+Не вдалося завантажити розширення «Formula (pdflatex)». Причина: залежність не було задоволено.
+Залежність:
+	тип: executable
+	розташування: контур
+	рядок: pdflatex
+
+Не вдалося завантажити розширення «Optimized PNG». Причина: залежність не було задоволено.
+Залежність:
+	тип: executable
+	розташування: контур
+	рядок: optipng
+
+Не вдалося завантажити розширення «XFIG Input». Причина: залежність не було задоволено.
+Залежність:
+	тип: executable
+	розташування: контур
+	рядок: fig2dev
 

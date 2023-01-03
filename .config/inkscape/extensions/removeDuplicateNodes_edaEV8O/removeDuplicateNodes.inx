@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <_name>Remove duplicate nodes</_name>
+  <id>EllenWasbo.cutlings.RemoveDuplicateNodes</id>
+  <dependency type="executable" location="inx">removeDuplicateNodes.py</dependency>
+  <param type="notebook" name="tab">    
+        <page name="options" _gui-text="Options">
+          <_param name="help" type="description">Remove duplicate nodes from selected paths.</_param>
+          <param name="help" type="description"> </param>
+          <param name="minUse" type="boolean" _gui-text="Interpolate nodes of segments with total length less than specified length">false</param>
+                        <param name="minlength" indent="4" type="float" precision="2" min="0" max="100" appearance="full" _gui-text="Minimum segment length">0.01</param>
+          <param name="joinEnd" type="boolean" _gui-text="Close subpaths where start and end node have a distance of less than">false</param>
+                        <param name="maxdist" indent="4" type="float" precision="2" min="0" max="100" appearance="full" _gui-text="Limit">0.01</param>						
+          <param name="joinEndSub" type="boolean" _gui-text="Join end nodes of separate subpaths where distance less than">false</param>
+                        <param name="maxdist2" indent="4" type="float" precision="2" min="0" max="100" appearance="full" _gui-text="Limit">0.01</param>
+                        <param name="allowReverse" indent="4" type="boolean" _gui-text="Allow reversing direction of subpaths">true</param>
+						<param name="optionJoin" indent="4" type="optiongroup" _gui-text="Join subpaths by">
+							<option value="1">interpolating nodes</option>
+							<option value="2">adding straight line segment</option>
+						</param>
+            <param name="ml" type="description"> </param>           
+            <_param name="unitinfo" type="description">Unit as defined in document (File->Document Properties).</_param>
+        </page>
+        <page name="help" _gui-text="Information">
+            <_param name="infotext" type="description" xml:space="preserve">
+Originally created to clean up paths for cutters/plotters by removing excessive nodes or small gaps.
+
+Remove duplicate nodes (with exact same coordinates will always be performed.
+To join paths, make sure that the paths to consider are already combined (subpath of the same path).
+To combine paths, select them and press Ctrl+K. 
+
+For more information: 
+https://gitlab.com/EllenWasbo/inkscape-extension-removeduplicatenodes
+</_param>
+        </page>
+    </param>
+  <effect>
+    <effects-menu>
+       <submenu name="Cutlings"/>
+    </effects-menu>
+  </effect>
+  <script>
+    <command location="inx" interpreter="python">removeDuplicateNodes.py</command>
+  </script>
+</inkscape-extension>

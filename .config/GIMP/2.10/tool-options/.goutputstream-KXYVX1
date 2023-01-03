@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.95686274766921997 0.73333334922790527 0.76470589637756348))
+(palette "Standard")
+(font "Wild Words")
+(font-size 22)
+(justify center)
+
+# end of gimp-text-tool options

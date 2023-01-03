@@ -1,0 +1,5 @@
+# GIMP modulerc
+
+(module-load-inhibit "/usr/lib/gimp/2.0/modules/libcolor-selector-cmyk.so:/usr/lib/gimp/2.0/modules/libcolor-selector-water.so:/usr/lib/gimp/2.0/modules/libcontroller-midi.so")
+
+# end of modulerc

@@ -1,0 +1,10 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.79400398173088182 0.1912597103485966 0.59308922460345359))
+(palette "Standard")
+(font "Lasco")
+(font-size 22)
+(justify center)
+(box-mode fixed)
+
+# end of gimp-text-tool options

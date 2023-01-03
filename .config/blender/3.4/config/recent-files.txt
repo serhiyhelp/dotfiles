@@ -1,0 +1,10 @@
+/home/serhiy/media/original/Wallpaper/wallpaper.blend
+/home/serhiy/media/original/RoundFlowIcon/RoundFlowIcon.blend
+/home/serhiy/media/original/Girl/girl.blend
+/home/serhiy/media/original/Beaver/beaver.blend
+/home/serhiy/media/blender/Girl/girl.blend
+/home/serhiy/media/blender/Бульдозер/бульдозер.blend
+/home/serhiy/media/blender/Wallpaper/wallpaper.blend
+/home/serhiy/media/blender/PirateRush/robot.blend
+/home/serhiy/media/blender/PirateRush/PirateRush.blend
+/home/serhiy/media/blender/wizard/wizard.blend

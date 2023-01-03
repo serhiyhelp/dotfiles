@@ -2,19 +2,19 @@
 
 unsetopt PROMPT_SP
 
-export PATH="/home/serhiy/.local/bin/dwmblocks:/home/serhiy/.local/bin/controls:$PATH"
+export PATH="/home/serhiy/.local/bin:/home/serhiy/.local/bin/dwmblocks:/home/serhiy/.local/bin/controls:$PATH"
 
 # Default programs:
 export EDITOR="nvim"
+export VISUAL="nvim"
 export TERMINAL="alacritty"
-export BROWSER="surf"
+export BROWSER="firefox"
 
 # ~/ Clean-up:
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 # export XDG_DATA_DIRS="$HOME/.local/share:$XDG_DATA_DIRS"
 export XDG_CACHE_HOME="$HOME/.cache"
-export XINITRC="${XDG_CONFIG_HOME:-$HOME/.config}/x11/xinitrc"
 #export XAUTHORITY="$XDG_RUNTIME_DIR/Xauthority" # This line will break some DMs.
 #export NOTMUCH_CONFIG="${XDG_CONFIG_HOME:-$HOME/.config}/notmuch-config"
 export GTK2_RC_FILES="${XDG_CONFIG_HOME:-$HOME/.config}/gtk-2.0/gtkrc-2.0"
@@ -23,7 +23,7 @@ export WGETRC="${XDG_CONFIG_HOME:-$HOME/.config}/wget/wgetrc"
 export INPUTRC="${XDG_CONFIG_HOME:-$HOME/.config}/shell/inputrc"
 export ZDOTDIR="${XDG_CONFIG_HOME:-$HOME/.config}/zsh"
 #export ALSA_CONFIG_PATH="$XDG_CONFIG_HOME/alsa/asoundrc"
-#export GNUPGHOME="${XDG_DATA_HOME:-$HOME/.local/share}/gnupg"
+export GNUPGHOME="${XDG_DATA_HOME:-$HOME/.local/share}/gnupg"
 export WINEPREFIX="${XDG_DATA_HOME:-$HOME/.local/share}/wineprefixes/default"
 #export KODI_DATA="${XDG_DATA_HOME:-$HOME/.local/share}/kodi"
 export PASSWORD_STORE_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/password-store"
@@ -37,6 +37,8 @@ export HISTFILE="${XDG_DATA_HOME:-$HOME/.local/share}/history"
 export WEECHAT_HOME="${XDG_CONFIG_HOME:-$HOME/.config}/weechat"
 export ZSH="${XDG_CONFIG_HOME:-$HOME/.config}/oh-my-zsh"
 export NUGET_PACKAGES="/home/serhiy/.cache/nuget"
+export GRADLE_USER_HOME="$HOME/.cache/gradle"
+export PYTHON_HISTORY="$XDG_CACHE_HOME/python_history"
 
 # Other program settings:
 export DICS="/usr/share/stardict/dic/"
@@ -54,16 +56,15 @@ export LESSOPEN="| /usr/bin/highlight -O ansi %s 2>/dev/null"
 export MOZ_USE_XINPUT2="1"		# Mozilla smooth scrolling/touchpads.
 export AWT_TOOLKIT="MToolkit wmname LG3D"	#May have to install wmname
 export _JAVA_AWT_WM_NONREPARENTING=1	# Fix for Java applications in dwm
-#export QT_STYLE_OVERRIDE=breeze
 export R_LIBS="/home/serhiy/.local/share/R"
-#export QT_QPA_PLATFORMTHEME="gtk3"	# Have QT use gtk2 theme.
 export QT_QPA_PLATFORMTHEME=qt5ct
-export TDESKTOP_I_KNOW_ABOUT_GTK_INCOMPATIBILITY=1
 export ANDROID_SDK_ROOT="$HOME/.local/share/Android/Sdk"
 export KRITA_NO_STYLE_OVERRIDE=1
+export MSBUILD_EXE_PATH=/lib/mono/msbuild/Current/bin/MSBuild.rsp
+export FrameworkPathOverride=/lib/mono/4.7.2-api
 
-xset -b
 export NNN_BMS='d:~/media/pic'
-export NNN_COLORS='1234'
+export NNN_COLORS='4646'
 export GROFF_TMAC_PATH=~/doc/groff/.env
-
+export NNN_TRASH=1
+#export GTK_IM_MODULE="xim"

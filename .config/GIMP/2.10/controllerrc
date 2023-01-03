@@ -2,6 +2,12 @@
 # 
 # This file will be entirely rewritten each time you exit.
 
+(GimpControllerInfo "Linux Input"
+    (icon-name "gimp-controller-linux-input")
+    (enabled yes)
+    (debug-events no)
+    (controller "ControllerLinuxInput")
+    (mapping))
 (GimpControllerInfo "Main Mouse Wheel"
     (icon-name "gimp-controller-wheel")
     (enabled yes)

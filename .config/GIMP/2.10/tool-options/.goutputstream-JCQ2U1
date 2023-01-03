@@ -1,0 +1,13 @@
+# GIMP gimp-dodge-burn-tool options
+
+(foreground (color-rgb 1 1 1))
+(background (color-rgb 0.043137256056070328 0.070588238537311554 0.14117647707462311))
+(brush "Charcoal 01")
+(dynamics "Без назви")
+(palette "Standard")
+(brush-size 65)
+(brush-angle -55.000000000000007)
+(brush-spacing 0.040000000000000001)
+(brush-force 0.95999999999999996)
+
+# end of gimp-dodge-burn-tool options

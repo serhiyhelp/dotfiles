@@ -1,0 +1,7 @@
+# GIMP gimp-fuzzy-select-tool options
+
+(sample-merged yes)
+(threshold 81.799999999999997)
+(draw-mask yes)
+
+# end of gimp-fuzzy-select-tool options

@@ -1,0 +1,8 @@
+# GIMP gimp-crop-tool options
+
+(aspect-denominator 1080)
+(aspect-numerator 1920)
+(foreground (color-rgb 0.16078431372549021 0.40000000000000002 0.75686274509803919))
+(pattern "Dried mud")
+
+# end of gimp-crop-tool options

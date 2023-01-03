@@ -1,0 +1,13 @@
+# GIMP gimp-pencil-tool options
+
+(foreground (color-rgb 0.54147399871949919 0.068435654833890594 0.068435654833890594))
+(background (color-rgb 0.043137256056070328 0.070588238537311554 0.14117647707462311))
+(brush "Звукова ручка")
+(dynamics "Без назви")
+(gradient "Standard")
+(palette "Standard")
+(brush-size 1)
+(brush-hardness 0.85999999999999999)
+(brush-force 0.90000000000000002)
+
+# end of gimp-pencil-tool options

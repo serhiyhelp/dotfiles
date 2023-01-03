@@ -1,0 +1,9 @@
+# GIMP gimp-gradient-tool options
+
+(foreground (color-rgb 0.73333334922790527 0.88627451658248901 0.7764706015586853))
+(background (color-rgb 0.97191166877746582 0.97723031044006348 0.98119056224822998))
+(gradient "Нетипове")
+(brush-size 51)
+(brush-hardness 0.5)
+
+# end of gimp-gradient-tool options

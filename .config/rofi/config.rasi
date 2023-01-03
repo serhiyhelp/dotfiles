@@ -1,16 +1,11 @@
 configuration {
-  lines: 5;
-  eh: 1;
-  bw: 0;
-  columns: 4;
-  fullscreen: false;
-  padding: 10;
-  modi: "window,drun,ssh,combi";
-  combi-modi: "window,drun,ssh";
-  font: "Fantasque Sans Mono 17";
-  show-icons:  true;
-  terminal: "alacritty";
-  drun-display-format: "{name}";
-  sort: true;
-  theme: "~/.config/rofi/themes/solarized.rasi";
+	modi: "window,drun,ssh,combi";
+	combi-modi: "window,drun,ssh";
+	font: "Fantasque Sans Mono 12";
+	show-icons:  true;
+	terminal: "alacritty";
+	drun-display-format: "{name}";
+	sort: true;
 }
+
+@theme "~/.config/rofi/themes/dr.rasi"

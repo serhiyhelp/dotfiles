@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-convolve-tool")
+(paint-info "gimp-convolve")
+(foreground (color-rgb 0.13822076501321348 0.55385761876260076 0.40472162744913653))
+(brush "2. Hardness 075")
+(dynamics "Pressure Opacity")
+(mybrush "100% Opaque")
+(pattern "Nops")
+(gradient "Передній план до тла (RGB)")
+(palette "Історія кольору")
+(font "Sans-serif")
+(tool-preset "Virtual core pointer")
+
+# end of user context

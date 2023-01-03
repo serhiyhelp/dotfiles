@@ -1,4 +1,8 @@
 # GIMP gimp-fuzzy-select-tool options
 
+(sample-merged yes)
+(diagonal-neighbors yes)
+(threshold 8.0999999999999996)
+(draw-mask yes)
 
 # end of gimp-fuzzy-select-tool options

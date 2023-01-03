@@ -1,0 +1,16 @@
+# settings
+
+(GimpGegl-gegl-oilify-config "2022-12-31 15:45:22"
+    (time 1672494322)
+    (mask-radius 4)
+    (exponent 8)
+    (intensities 128)
+    (use-inten yes))
+(GimpGegl-gegl-oilify-config "2022-12-31 15:44:22"
+    (time 1672494262)
+    (mask-radius 6)
+    (exponent 15)
+    (intensities 143)
+    (use-inten yes))
+
+# end of settings

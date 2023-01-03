@@ -1,0 +1,10 @@
+# settings
+
+(GimpGegl-gegl-emboss-config "2021-07-23 17:03:27"
+    (time 1627049007)
+    (type emboss)
+    (azimuth 85.090000000000003)
+    (elevation 30.850000000000001)
+    (depth 72))
+
+# end of settings

@@ -1,0 +1,15 @@
+[Bookmarks]
+/home/serhiy/src/unity/FHDE/Assets/
+/home/serhiy/src/godot/
+[Recent]
+!Home
+/home/serhiy/
+/home/serhiy/src/unity/tall-man/Assets/Models/
+/home/serhiy/media/original/RoundFlowIcon/
+/home/serhiy/src/unity/Wood/Assets/Land/
+/home/serhiy/src/unity/Wood/Assets/Fungi/
+/home/serhiy/src/unity/Wood/Assets/Tree/
+/home/serhiy/media/original/Beaver/
+/home/serhiy/src/unity/Wood/Assets/Dam/
+/home/serhiy/src/unity/Wood/Assets/Beaver/
+/home/serhiy/src/unity/Wood/Assets/Tree/DeadTree/

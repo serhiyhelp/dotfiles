@@ -1,0 +1,10 @@
+# GIMP gimp-bucket-fill-tool options
+
+(foreground (color-rgb 0.89019608497619629 0.83529412746429443 0.83529412746429443))
+(background (color-rgb 0 0 0))
+(pattern "Dried mud")
+(brush-size 51)
+(brush-hardness 0.5)
+(fill-area line-art)
+
+# end of gimp-bucket-fill-tool options

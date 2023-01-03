@@ -1,0 +1,39 @@
+# settings
+
+(GimpGegl-gegl-color-exchange-config "2022-11-06 20:55:15"
+    (time 1667760915)
+    (from-color (color-rgba 0 0 0 1))
+    (to-color (color-rgba 0.12941176470588237 0.086274509803921567 0.078431372549019607 1))
+    (red-threshold 1)
+    (green-threshold 1)
+    (blue-threshold 1))
+(GimpGegl-gegl-color-exchange-config "2022-11-06 20:36:06"
+    (time 1667759766)
+    (from-color (color-rgba 0 0 0 1))
+    (to-color (color-rgba 0.13725490196078433 0.094117647058823528 0.086274509803921567 1))
+    (red-threshold 0)
+    (green-threshold 0)
+    (blue-threshold 0))
+(GimpGegl-gegl-color-exchange-config "2022-09-25 18:32:24"
+    (time 1664119944)
+    (from-color (color-rgba 1 1 1 1))
+    (to-color (color-rgba 0.56470588235294117 0.10980392156862745 0.2627450980392157 1))
+    (red-threshold 0)
+    (green-threshold 0)
+    (blue-threshold 0))
+(GimpGegl-gegl-color-exchange-config "2022-09-24 12:58:54"
+    (time 1664013534)
+    (from-color (color-rgba 1 1 1 1))
+    (to-color (color-rgba 0.35294117647058826 0.062745098039215685 0.31372549019607843 1))
+    (red-threshold 0)
+    (green-threshold 0)
+    (blue-threshold 0))
+(GimpGegl-gegl-color-exchange-config "2022-09-24 12:42:38"
+    (time 1664012558)
+    (from-color (color-rgba 1 1 1 1))
+    (to-color (color-rgba 0.3411764705882353 0.062745098039215685 0.30588235294117649 1))
+    (red-threshold 0.32000000000000001)
+    (green-threshold 0.5)
+    (blue-threshold 0.69199999999999995))
+
+# end of settings

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <inkscape
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   version="1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1">
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
   <group
      id="window">
     <group
        id="task"
-       taskset="2" />
+       taskset="0" />
     <group
        id="menu"
        state="1" />
@@ -34,7 +34,7 @@
        state="1" />
     <group
        id="scrollbars"
-       state="1" />
+       state="0" />
   </group>
   <group
      id="fullscreen">
@@ -63,10 +63,10 @@
        state="1" />
     <group
        id="rulers"
-       state="1" />
+       state="0" />
     <group
        id="scrollbars"
-       state="1" />
+       state="0" />
   </group>
   <group
      id="focus">
@@ -105,11 +105,14 @@
     <sodipodi:namedview
        id="base"
        pagecolor="#ffffff"
+       pageopacity="0.0"
+       pagecheckerboard="0"
        bordercolor="#666666"
        borderopacity="1.0"
        objecttolerance="10.0"
        gridtolerance="10.0"
        guidetolerance="10.0"
+       pageshadow="2"
        inkscape:pageopacity="0.0"
        inkscape:pageshadow="2"
        inkscape:window-width="640"
@@ -127,15 +130,15 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="321.078"
-         height="160.539"
-         ry="59.4431"
+         width="907.087825264516"
+         height="907.08661417323"
+         ry="0"
          rx="0" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
          usecurrent="1"
-         persp="perspective849">
+         persp="perspective121960">
         <side
            id="XYfront"
            style="fill:#8686bf;stroke:none;stroke-linejoin:round;"
@@ -167,16 +170,16 @@
          end="0"
          start="0"
          usecurrent="1"
-         rx="238"
-         ry="238"
+         rx="2.68169042632335"
+         ry="2.68169132743294"
          arc_type="0" />
       <eventcontext
          id="star"
-         magnitude="12"
+         magnitude="5"
          style="fill:yellow;"
          usecurrent="1"
-         proportion="0.32"
-         rounded="0.223842"
+         proportion="0.534327115898719"
+         rounded="0.4"
          isflatsided="0"
          randomized="0" />
       <eventcontext
@@ -184,7 +187,7 @@
          style="fill:none;stroke:black"
          expansion="1"
          usecurrent="0"
-         revolution="7.90615"
+         revolution="7.91"
          t0="0.562899" />
     </group>
     <group
@@ -209,16 +212,19 @@
        id="calligraphic"
        style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;"
        mass="2"
-       angle="30"
-       width="15"
-       thinning="10"
-       flatness="90"
-       cap_rounding="0.0"
+       angle="45"
+       width="22.6771653543307"
+       thinning="-40"
+       flatness="16"
+       cap_rounding="0.1"
        usecurrent="1"
        tracebackground="0"
        usepressure="1"
-       usetilt="0"
-       keep_selected="1">
+       usetilt="1"
+       keep_selected="1"
+       abs_width="1"
+       unit="mm"
+       wiggle="25">
       <group
          id="preset">
         <group
@@ -329,12 +335,16 @@
        id="text"
        usecurrent="0"
        gradientdrag="1"
-       font_sample="AaBbCcIiPpQq12369$\342\202\254\302\242?.;/()"
+       font_sample="Їжачок п'є ґрунтові води!"
        show_sample_in_list="1"
        use_svg2="1"
-       style="line-height:1.25;font-family:emoji;font-size:40px;-inkscape-font-specification:emoji;"
+       style="line-height:1.25;font-family:v_DigitalStrip;font-size:20px;-inkscape-font-specification:v_DigitalStrip;word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
        selcue="1"
-       align_mode="1" />
+       align_mode="0">
+      <group
+         id="lineheight"
+         display_unit="1" />
+    </eventcontext>
     <eventcontext
        id="nodes"
        selcue="1"
@@ -346,12 +356,12 @@
        show_outline="0"
        sculpting_profile="1"
        single_node_transform_handles="0"
-       show_transform_handles="0"
+       show_transform_handles="1"
        live_outline="1"
        live_objects="1"
        show_helperpath="0"
-       x="648.828"
-       y="908.46"
+       x="267.909558362507"
+       y="79.0491485042933"
        edit_clipping_paths="1"
        edit_masks="0" />
     <eventcontext
@@ -368,25 +378,33 @@
        doh="1"
        dos="1"
        dol="1"
-       doo="1" />
+       doo="1"
+       mode="0" />
     <eventcontext
        id="spray"
        selcue="1"
        gradientdrag="0"
        usepressure="1"
        width="15"
-       population="70"
+       population="20"
        mode="1"
        rotation_variation="0"
        scale_variation="0"
-       standard_deviation="70"
+       standard_deviation="100"
        mean="0" />
     <eventcontext
        id="gradient"
-       selcue="1" />
+       selcue="1"
+       newgradient="1" />
     <eventcontext
        id="mesh"
-       selcue="1" />
+       selcue="1"
+       mesh_geometry="0"
+       newfillorstroke="0"
+       mesh_rows="3"
+       mesh_cols="3"
+       edit_fill="1"
+       edit_stroke="0" />
     <eventcontext
        id="zoom"
        selcue="1"
@@ -415,7 +433,24 @@
        id="measure"
        measure-start="-3735.14,-469.285"
        measure-end="-1880.86,-3415.28"
-       fontsize="10" />
+       fontsize="10"
+       unit="pt">
+      <group
+         id="measure-start"
+         x="1234.91282417162"
+         y="326.289051336476" />
+      <group
+         id="measure-end"
+         x="1234.91282417162"
+         y="344.558758884737" />
+    </group>
+    <eventcontext
+       id="marker"
+       selcue="1"
+       gradientdrag="1" />
+    <group
+       id="geometric"
+       mode="drag" />
   </group>
   <group
      id="palette">
@@ -536,7 +571,8 @@
   </group>
   <group
      id="colorselector"
-     page="1" />
+     page="1"
+     switcher="1" />
   <group
      id="embedded">
     <group
@@ -545,7 +581,7 @@
        panel_mode="1"
        panel_ratio="100"
        panel_wrap="0"
-       palette="Inkscape default"
+       palette="SVG"
        panel_border="0" />
   </group>
   <group
@@ -554,7 +590,7 @@
        id="toolbox" />
     <group
        id="fillstroke"
-       page="0"
+       page="2"
        x="0"
        y="0"
        w="532"
@@ -575,7 +611,7 @@
        placement="1" />
     <group
        id="transformation"
-       applyseparately="0"
+       applyseparately="1"
        rotateCounterClockwise="1"
        x="0"
        y="0"
@@ -596,7 +632,9 @@
        state="2"
        placement="5" />
     <group
-       id="xml" />
+       id="xml"
+       h="500"
+       w="300" />
     <group
        id="find" />
     <group
@@ -616,7 +654,7 @@
     <group
        id="preferences"
        state="1"
-       page="24"
+       page="48"
        x="947"
        y="64"
        w="885"
@@ -645,23 +683,30 @@
        h="546"
        visible="1"
        state="2"
-       placement="5">
+       placement="5"
+       defaultopts="1">
       <group
          id="exportarea"
-         value="custom" />
+         value="page" />
       <group
          id="defaultxdpi"
-         value="108" />
+         value="96" />
       <group
          id="hideexceptselected"
-         value="1" />
+         value="0" />
+      <group
+         id="batchexportarea"
+         value="layer" />
+      <group
+         id="defaultdpi"
+         value="110" />
     </group>
     <group
        id="save_as"
-       default="org.inkscape.output.svg.plain"
+       default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path="/home/serhiy/media/fonts/bar-icons/cf"
+       path="/home/serhiy/media/original"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -672,20 +717,30 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/serhiy/media/ink/" />
+       path="/home/serhiy/media/original/manga/Futaba-Yodomu-Working-at-the-Futanari-Beach-Police/" />
     <group
        id="import"
        enable_preview="1"
-       path=""
-       ask="1"
+       path="/home/serhiy/"
+       ask="0"
        ask_svg="1"
        link="link"
-       scale="optimizeSpeed" />
+       scale="auto"
+       import_mode_svg="include"
+       forcexdpi="1">
+      <group
+         id="defaultxdpi"
+         value="96" />
+    </group>
     <group
        id="debug"
        redirect="0" />
     <group
-       id="clonetiler" />
+       id="clonetiler"
+       dotrace="0"
+       fillrect="0"
+       jmax="3"
+       imax="3" />
     <group
        id="gridtiler" />
     <group
@@ -696,7 +751,12 @@
     <group
        id="messages" />
     <group
-       id="swatches" />
+       id="swatches"
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0" />
     <group
        id="iconpreview" />
     <group
@@ -706,10 +766,10 @@
     <group
        id="layers"
        maxDepth="20"
-       x="0"
-       y="0"
        w="532"
        h="546"
+       x="0"
+       y="0"
        visible="1"
        state="2"
        placement="5" />
@@ -737,7 +797,7 @@
        placement="1" />
     <group
        id="livepatheffect"
-       dialogmode="0"
+       dialogmode="1"
        x="0"
        y="0"
        w="532"
@@ -763,6 +823,12 @@
        visible="1"
        state="2"
        placement="5" />
+    <group
+       id="selectors"
+       panedpos="495" />
+    <group
+       id="layerProp"
+       addLayerPosition="0" />
   </group>
   <group
      id="printing">
@@ -773,7 +839,11 @@
        add-label-comments="0" />
   </group>
   <group
-     id="options">
+     id="options"
+     rotationlock="1"
+     onimport="0"
+     dpifixbackup="0"
+     dpiupdatemethod="0">
     <group
        id="renderingcache"
        size="512" />
@@ -806,7 +876,7 @@
        value="12" />
     <group
        id="cursortolerance"
-       value="8.0" />
+       value="8" />
     <group
        id="dragtolerance"
        value="4.0" />
@@ -815,7 +885,7 @@
        value="3" />
     <group
        id="displayprofile"
-       enable="0"
+       enable="1"
        from_display="0"
        intent="0"
        uri="" />
@@ -920,7 +990,7 @@
        value="0" />
     <group
        id="stickyzoom"
-       value="1" />
+       value="0" />
     <group
        id="selcue"
        value="2" />
@@ -942,14 +1012,16 @@
        id="selection"
        layerdeselect="1" />
     <group
-       id="createbitmap" />
+       id="createbitmap"
+       resolution="96" />
     <group
        id="compassangledisplay"
        value="0" />
     <group
        id="maskobject"
        topmost="1"
-       remove="1" />
+       remove="1"
+       grouping="0" />
     <group
        id="blurquality"
        value="0" />
@@ -1037,16 +1109,47 @@
        colorsontop="0"
        partialdynamic="0" />
     <group
-       id="rendering" />
+       id="rendering"
+       imageinoutlinemode="0" />
     <group
        id="font"
-       unitType="2" />
+       unitType="3"
+       scaleLineHeightFromFontSIze="1"
+       use_fontsdir_user="0"
+       use_fontsdir_system="0" />
     <group
        id="middlemousezoom"
        value="1" />
+    <group
+       id="defaultwindowsize"
+       value="2" />
+    <group
+       id="boot"
+       theme="system"
+       enabled="0">
+      <group
+         id="shown"
+         ver1.1="1"
+         ver1.1.1="1" />
+    </group>
+    <group
+       id="snapping"
+       snap-global-toggle="0"
+       snap-bbox="0"
+       snap-line-perpendicular="0"
+       snap-path-intersection="1"
+       snap-line-tangential="0"
+       snap-node-category="1"
+       snap-line-midpoint="1"
+       snap-page-border="0"
+       snap-grid="0"
+       snap-object-midpoint="1" />
   </group>
   <group
      id="extensions"
+     org.inkscape.output.png.inkscape.png_bitdepth="99"
+     org.inkscape.output.png.inkscape.png_compression="9"
+     org.inkscape.output.png.inkscape.png_antialias="2"
      org.inkscape.template.page.size="297mmx420mm"
      org.inkscape.template.page.orientation="vertical"
      org.inkscape.template.page.background="normal"
@@ -1058,18 +1161,71 @@
      org.inkscape.template.generic_canvas.height="200"
      org.inkscape.output.pdf.cairorenderer.PDFversion="PDF-1.5"
      org.inkscape.print.ps.cairo.PSlevel="PS3"
-     org.inkscape.output.pdf.cairorenderer.blurToBitmap="0" />
+     org.inkscape.output.pdf.cairorenderer.blurToBitmap="0"
+     org.biapy.filter.objectgradient.gradient-orientation="left-to-right"
+     org.biapy.filter.objectgradient.end-color="4042912767"
+     org.biapy.filter.objectgradient.start-color="3172708863"
+     org.biapy.filter.objectgradient.__live_effect__="0"
+     org.inkscape.output.scour_inkscape.indent="space"
+     org.inkscape.output.scour_inkscape.tab="Output"
+     org.inkscape.output.scour_inkscape.enable-comment-stripping="1"
+     org.inkscape.output.scour_inkscape.remove-metadata="1"
+     org.inkscape.output.scour_inkscape.strip-xml-prolog="1"
+     org.inkscape.raster.webp_output.speed="6"
+     org.inkscape.raster.webp_output.lossless="0"
+     org.inkscape.output.scour_inkscape.enable-viewboxing="1"
+     org.inkscape.output.scour_inkscape.simplify-colors="0"
+     org.inkscape.input.gdkpixbuf.jpg.link="link"
+     org.inkscape.input.gdkpixbuf.jpg.do_not_ask="1"
+     org.inkscape.effect.filter.Invert.channels="0"
+     org.inkscape.effect.filter.Invert.hue="1"
+     org.inkscape.effect.filter.Invert.__live_effect__="0"
+     org.inkscape.effect.filter.Invert.lightness="1"
+     org.inkscape.effect.filter.Invert.transparency="1"
+     org.inkscape.effect.filter.Invert.opacify="0.971798"
+     org.inkscape.input.svg.scale="auto"
+     org.inkscape.filter.interp_att_g.att="width"
+     org.inkscape.filter.interp_att_g.att-other-type="color"
+     org.inkscape.filter.interp_att_g.att-other-where="tag"
+     org.inkscape.filter.interp_att_g.unit="none"
+     org.ekips.filter.interp.__live_effect__="0"
+     org.ekips.filter.interp.steps="13"
+     org.ekips.filter.interp.style="1"
+     org.inkscape.template.dvd_cover.spine="14"
+     org.inkscape.template.envelope.size="220mmx110mm"
+     org.inkscape.replace_font.scope="entire_document"
+     org.inkscape.replace_font.action="list_only"
+     org.inkscape.effect.voronoi.diagram-type="Voronoi"
+     org.inkscape.effect.voronoi.clip-box="Page"
+     org.inkscape.effect.voronoi.__live_effect__="0"
+     org.ekips.filter.interp.zsort="0"
+     org.ekips.filter.interp.dup="1"
+     org.ekips.filter.interp.method="equalSubsegments"
+     org.inkscape.filter.alphabet_soup.randomize="1"
+     org.inkscape.filter.alphabet_soup.__live_effect__="0"
+     org.inkscape.filter.alphabet_soup.text="Штанина"
+     org.ekips.filter.turtle_rtree.__live_effect__="0"
+     org.ekips.filter.turtle_rtree.pentoggle="0"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.minlength="10.6116639158596"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.tab="options"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.joinEnd="1"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.joinEndSub="1"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.minUse="1"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.maxdist2="100"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.maxdist="100"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.optionJoin="2"
+     EllenWasbo.cutlings.RemoveDuplicateNodes.__live_effect__="0" />
   <group
      id="desktop"
-     style="fill:#d40055;stroke-width:100;-inkscape-font-specification:FontAwesome;font-family:FontAwesome;font-size:96px;text-align:center;text-anchor:middle;line-height:1;stroke-linejoin:round;paint-order:stroke markers fill">
+     style="fill:none;font-size:12.8px;line-height:0.85;stroke-miterlimit:4.6;stroke-linejoin:round;stroke-width:2.64566929;-inkscape-font-specification:FreeSans;font-family:FreeSans;stroke:#8edce7;stroke-dasharray:10.58267699,2.64566925">
     <group
        width="1912"
        height="1042"
        x="0"
        y="30"
+       maximized="1"
        fullscreen="0"
-       id="geometry"
-       maximized="0" />
+       id="geometry" />
     <group
        id="XYfront" />
     <group
@@ -1089,11 +1245,20 @@
      id="toolbox"
      icononly="1"
      secondary="1"
+     simplesnap="0"
      small="1">
     <group
        id="tools"
        icononly="1"
-       small="0" />
+       small="1"
+       iconsize="16"
+       width="24">
+      <group
+         id="buttons" />
+    </group>
+    <group
+       id="controlbars"
+       iconsize="16" />
   </group>
   <group
      id="iconpreview"
@@ -1168,17 +1333,20 @@
      language="" />
   <group
      id="theme"
-     defaultTheme="NumixSolarizedDarkCyan"
+     defaultPreferDarkTheme="0"
      defaultIconTheme="Papirus-Dark"
-     gtkTheme="NumixSolarizedDarkCyan"
-     iconTheme="Papirus-Dark"
+     defaultGtkTheme="NumixSolarizedDarkCyan"
+     narrowSpinButton="1"
+     preferDarkTheme="1"
+     darkTheme="1"
+     symbolicIcons="0"
+     symbolicDefaultBaseColors="1"
+     symbolicDefaultHighColors="1"
+     defaultTheme="NumixSolarizedDarkCyan"
      menuIcons_canvas="0"
      menuIcons_layers="0"
      menuIcons_objects="0"
-     symbolicIcons="1"
-     symbolicDefaultColors="0"
-     darkTheme="1"
-     preferDarkTheme="1">
+     symbolicDefaultColors="0">
     <group
        id="Papirus-Light"
        symbolicBaseColor="4143314175"
@@ -1187,9 +1355,28 @@
        symbolicErrorColor="3422552319" />
     <group
        id="Papirus-Dark"
-       symbolicBaseColor="-286730753"
-       symbolicSuccessColor="-2053570305"
-       symbolicWarningColor="-884271361"
-       symbolicErrorColor="-600690689" />
+       symbolicBaseColor="2476843519"
+       symbolicSuccessColor="1403600895"
+       symbolicWarningColor="4118348031"
+       symbolicErrorColor="3422552319" />
   </group>
+  <group
+     id="live_effects"
+     flattening="0">
+    <group
+       id="bend_path"
+       width="1.70589465036287" />
+  </group>
+  <group
+     id="statusbar">
+    <group
+       id="visibility" />
+  </group>
+  <group
+     id="gradient-edit"
+     stoplist="1" />
+  <group
+     id="color_scales"
+     wheel_vis_hsl="1"
+     wheel_vis_hsv="1" />
 </inkscape>

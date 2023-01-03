@@ -2,10 +2,14 @@
 
 case $BLOCK_BUTTON in
     1) xkb-switch -n ;;
-    6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+	3)
+		setxkbmap -option caps:swapescape -option grp:win_space_toggle -option grp:switch -layout "us,ua" -variant ",winkeys"
+		xmodmap -e "keycode 107 = Multi_key"
+		;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
 case $(xkb-switch) in
-    'us') echo -e "🐥 eng\x02" ;;
-	'ua(winkeys)') echo -e "🐥 укр\x02" ;;
+	'us') echo -e "🐥 eng\x02" ;;
+	*) echo -e "🐥 укр\x02" ;;
 esac

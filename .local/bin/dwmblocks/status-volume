@@ -2,6 +2,7 @@
 
 case $BLOCK_BUTTON in
     1) ponymix toggle ;;
+	2) v 22 ;;
     3) setsid -f pavucontrol ;;
     4) ponymix increase 5;;
     5) ponymix decrease 5;;

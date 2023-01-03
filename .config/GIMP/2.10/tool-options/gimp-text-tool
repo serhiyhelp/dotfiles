@@ -1,8 +1,9 @@
 # GIMP gimp-text-tool options
 
-(foreground (color-rgb 0.086943561208267114 0.16237988637426362 0.42892156862745101))
-(palette "Color History")
-(font "Arial")
-(box-mode fixed)
+(foreground (color-rgb 1 1 1))
+(palette "Standard")
+(font "Wild Words")
+(font-size 22)
+(justify center)
 
 # end of gimp-text-tool options

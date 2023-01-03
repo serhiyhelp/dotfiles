@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(palette "Standard")
+(font "v_CCPulp Fiction")
+(font-size 18)
+(justify center)
+(box-mode fixed)
+
+# end of gimp-text-tool options

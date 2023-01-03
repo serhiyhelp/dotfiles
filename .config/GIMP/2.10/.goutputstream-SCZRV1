@@ -1,0 +1,14 @@
+# GIMP user context
+
+(tool "gimp-paintbrush-tool")
+(paint-info "gimp-paintbrush")
+(brush "Звукова ручка")
+(dynamics "Ручка")
+(mybrush "100% Opaque")
+(pattern "Dried mud")
+(gradient "Standard")
+(palette "Standard")
+(font "Wild Words")
+(tool-preset "Wacom Intuos Pro M Pen stylus")
+
+# end of user context

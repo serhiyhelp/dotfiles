@@ -1,0 +1,12 @@
+# GIMP gimp-dodge-burn-tool options
+
+(brush "Звукова ручка")
+(dynamics "Ручка")
+(palette "Standard")
+(brush-size 3)
+(brush-angle 5)
+(brush-spacing 0.029999999999999999)
+(brush-hardness 0.75)
+(brush-force 0.85999999999999999)
+
+# end of gimp-dodge-burn-tool options

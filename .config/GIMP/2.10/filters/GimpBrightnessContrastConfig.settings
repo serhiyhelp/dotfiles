@@ -1,0 +1,44 @@
+# settings
+
+(GimpBrightnessContrastConfig "2022-12-15 15:58:16"
+    (time 1671112696)
+    (brightness 0.14960629921259844)
+    (contrast 0.10236220472440945))
+(GimpBrightnessContrastConfig "2022-12-10 18:36:54"
+    (time 1670690214)
+    (brightness -0.23622047244094488)
+    (contrast 0))
+(GimpBrightnessContrastConfig "2022-08-21 17:00:18"
+    (time 1661090418)
+    (brightness 0.8110236220472441)
+    (contrast 0.74803149606299213))
+(GimpBrightnessContrastConfig "2022-08-21 16:57:08"
+    (time 1661090228)
+    (brightness 0.8582677165354331)
+    (contrast 0.73228346456692917))
+(GimpBrightnessContrastConfig "2022-08-21 16:54:28"
+    (time 1661090068)
+    (brightness 0.84251968503937003)
+    (contrast 0.74803149606299213))
+(GimpBrightnessContrastConfig "2022-08-21 16:52:29"
+    (time 1661089949)
+    (brightness 0.80314960629921262)
+    (contrast 0.75590551181102361))
+(GimpBrightnessContrastConfig "2022-08-20 19:36:45"
+    (time 1661013405)
+    (brightness 0.82677165354330706)
+    (contrast 0.72440944881889768))
+(GimpBrightnessContrastConfig "2022-08-20 19:32:16"
+    (time 1661013136)
+    (brightness 0.85039370078740162)
+    (contrast 0.72440944881889768))
+(GimpBrightnessContrastConfig "2022-08-20 19:27:32"
+    (time 1661012852)
+    (brightness 0.80314960629921262)
+    (contrast 0.67716535433070868))
+(GimpBrightnessContrastConfig "2022-08-20 19:18:33"
+    (time 1661012313)
+    (brightness 0.96850393700787396)
+    (contrast 0.07874015748031496))
+
+# end of settings
