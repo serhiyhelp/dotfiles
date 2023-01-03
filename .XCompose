@@ -1,0 +1,77 @@
+# df
+#
+<Multi_key> <A> <A>		: "Á"	Aacute # LATIN CAPITAL LETTER A WITH ACUTE
+<Multi_key> <a> <a>		: "á"	aacute # LATIN SMALL LETTER A WITH ACUTE
+
+<Multi_key> <E> <E>		: "É"	Eacute # LATIN CAPITAL LETTER E WITH ACUTE
+<Multi_key> <e> <e>		: "é"	eacute # LATIN SMALL LETTER E WITH ACUTE
+
+<Multi_key> <I> <I>		: "Í"	Iacute # LATIN CAPITAL LETTER I WITH ACUTE
+<Multi_key> <i> <i>		: "í"	iacute # LATIN SMALL LETTER I WITH ACUTE
+
+<Multi_key> <O> <O>		: "Ó"	Oacute # LATIN CAPITAL LETTER O WITH ACUTE
+<Multi_key> <o> <o>		: "ó"	oacute # LATIN SMALL LETTER O WITH ACUTE
+
+<Multi_key> <U> <U>		: "Ú"	Uacute # LATIN CAPITAL LETTER U WITH ACUTE
+<Multi_key> <u> <u>		: "ú"	uacute # LATIN SMALL LETTER U WITH ACUTE
+
+<Multi_key> <U> <asciicircum> 	: "Ů"	U016E # LATIN CAPITAL LETTER U WITH RING ABOVE
+<Multi_key> <u> <6>  		: "ů"	U016F # LATIN SMALL LETTER U WITH RING ABOVE
+
+<Multi_key> <Y> <Y>		: "Ý"	Yacute # LATIN CAPITAL LETTER Y WITH ACUTE
+<Multi_key> <y> <y>		: "ý"	yacute # LATIN SMALL LETTER Y WITH ACUTE
+
+<Multi_key> <E> <numbersign>	: "Ě"	U011A # LATIN CAPITAL LETTER E WITH CARON
+<Multi_key> <e> <3>		: "ě"	U011B # LATIN SMALL LETTER E WITH CARON
+
+# Consonants
+
+<Multi_key> <C> 			: "Č"	U010C # LATIN CAPITAL LETTER C WITH CARON
+<Multi_key> <c> 			: "č"	U010D # LATIN SMALL LETTER C WITH CARON
+
+<Multi_key> <D> 			: "Ď"	U010E # LATIN CAPITAL LETTER D WITH CARON
+<Multi_key> <d> 			: "ď"	U010F # LATIN SMALL LETTER D WITH CARON
+
+<Multi_key> <N> 			: "Ň"	U0147 # LATIN CAPITAL LETTER N WITH CARON
+<Multi_key> <n> 			: "ň"	U0148 # LATIN SMALL LETTER N WITH CARON
+
+<Multi_key> <R> 			: "Ř"	U0158 # LATIN CAPITAL LETTER R WITH CARON
+<Multi_key> <r> 			: "ř"	U0159 # LATIN SMALL LETTER R WITH CARON
+
+<Multi_key> <S> 			: "Š"	U0160 # LATIN CAPITAL LETTER S WITH CARON
+<Multi_key> <s> 			: "š"	U0161 # LATIN SMALL LETTER S WITH CARON
+
+<Multi_key> <T> 			: "Ť"	U0164 # LATIN CAPITAL LETTER T WITH CARON
+<Multi_key> <t> 			: "ť"	U0165 # LATIN SMALL LETTER T WITH CARON
+
+<Multi_key> <Z> 			: "Ž"	U017D # LATIN CAPITAL LETTER Z WITH CARON
+<Multi_key> <z> 			: "ž"	U017E # LATIN SMALL LETTER Z WITH CARON
+
+# Cyrillic
+
+<Multi_key> <Cyrillic_U>	: "Ў"	U040E # CYRILLIC CAPITAL LETTER SHORT U
+<Multi_key> <Cyrillic_u> 	: "ў"	U045E # CYRILLIC SMALL LETTER SHORT U
+
+<Multi_key>  <Cyrillic_IE>	: "Ё"	U0401 # CYRILLIC CAPITAL LETTER IO
+<Multi_key>  <Cyrillic_ie>	: "ё"	U0451 # CYRILLIC SMALL LETTER IO
+
+<Multi_key>  <Ukrainian_I>	: "Ы"	# CYRILLIC SMALL LETTER IO
+<Multi_key>  <Ukrainian_i>	: "ы"	# CYRILLIC SMALL LETTER IO
+
+<Multi_key>  <Ukrainian_YI>	: "Ъ"	# CYRILLIC SMALL LETTER IO
+<Multi_key>  <Ukrainian_yi>	: "ъ"	# CYRILLIC SMALL LETTER IO
+
+<Multi_key>  <Ukrainian_IE>	: "Э"	# CYRILLIC SMALL LETTER IO
+<Multi_key>  <Ukrainian_ie>	: "э"	# CYRILLIC SMALL LETTER IO
+
+<Multi_key>  <Cyrillic_ha>	: "„“"	# CYRILLIC SMALL LETTER IO
+<Multi_key>  <Cyrillic_HA>	: "«»"	# CYRILLIC SMALL LETTER IO
+
+<Multi_key>  <apostrophe>	: "́" # CYRILLIC SMALL LETTER IO
+
+<Multi_key>  <Right>	: "➔"
+
+<Multi_key>  <2>	: "♡"
+<Multi_key>  <at>	: "♥"
+
+
